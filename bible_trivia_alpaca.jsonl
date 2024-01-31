@@ -1,0 +1,1292 @@
+[
+{"instruction": "True or False: The Bible is the most popular book ever written. (by copies sold)","input": "","output": "True"}
+{"instruction": "What is the first book in the Bible?","input": "","output": "Genesis"}
+{"instruction": "What is the last book in the Bible?","input": "","output": "Revelation"}
+{"instruction": "What four books tell about Jesus life on Earth?","input": "","output": "Matthew, Mark, Luke, John"}
+{"instruction": "Which book did Jesus directly write?","input": "","output": "None"}
+{"instruction": "What is the longest book in the Bible?","input": "","output": "Psalms"}
+{"instruction": "What is the shortest book in the Bible?","input": "","output": "3 John"}
+{"instruction": "How many books are in the Bible?","input": "","output": "66"}
+{"instruction": "How many books in the Old Testament?","input": "","output": "39 books in the OT"}
+{"instruction": "How many books in the New Testament?","input": "","output": "27 books in the NT"}
+{"instruction": "Which NT book has Jesus' Sermon on the Mount?","input": "","output": "Matthew"}
+{"instruction": "Ture or False: The Bible was first written in the English language?","input": "","output": "False"}
+{"instruction": "In what language was most of the Old Testament given?","input": "","output": "Hebrew"}
+{"instruction": "In what language was most of the New Testament given?","input": "","output": "Greek"}
+{"instruction": "Which human author wrote the most books?","input": "","output": "Paul wrote 13 books."}
+{"instruction": "Which human author wrote the most words in the Bible?","input": "","output": "Moses wrote 125,139 words. (source)"}
+{"instruction": "What was most likely the first Gospel written?","input": "","output": "Mark"}
+{"instruction": "What was most likely the last Gospel written?","input": "","output": "John"}
+{"instruction": "What was most likely the first of Paul's letters written?","input": "","output": "1 Thessalonians"}
+{"instruction": "What was most likely the last New Testament book written?","input": "","output": "Revelation Questions from Genesis"}
+{"instruction": "How many days did God take to create the world?","input": "","output": "6"}
+{"instruction": "What day did God create man?","input": "","output": "6th"}
+{"instruction": "Who was the first man?","input": "","output": "Adam"}
+{"instruction": "Who was the first woman?","input": "","output": "Eve"}
+{"instruction": "Where did they live at the beginning of the world?","input": "","output": "Garden of Eden"}
+{"instruction": "Who were their three sons listed in the Bible?","input": "","output": "Cain, Abel, Seth"}
+{"instruction": "Who did God tell to build an ark?","input": "","output": "Noah"}
+{"instruction": "Who were Noah's three sons?","input": "","output": "Shem, Ham, Japheth"}
+{"instruction": "How many days and nights did it rain when Noah was on the ark?","input": "","output": "40"}
+{"instruction": "How many people were saved on the ark?","input": "","output": "8"}
+{"instruction": "What was God's sign to Noah that he would never destroy the earth again?","input": "","output": "A rainbow"}
+{"instruction": "What were men trying to do at the Tower of Babel?","input": "","output": "Built a tower to reach to Heaven."}
+{"instruction": "How did God make them spread out across the earth?","input": "","output": "Confused their languages."}
+{"instruction": "Who did God call out of Ur to move to Canaan?","input": "","output": "Abram"}
+{"instruction": "Who was Abram's wife?","input": "","output": "Sarai"}
+{"instruction": "Even though Abram and Sarah were too old, what did God promise them?","input": "","output": "A son"}
+{"instruction": "When God showed Abram the stars in the sky, what did he promise?","input": "","output": "That Abram would have more descendants than the number of stars."}
+{"instruction": "Who was Abram's handmaid?","input": "","output": "Hagar"}
+{"instruction": "What was Sarah's idea for Abram to have a child?","input": "","output": "For Abram to have a child with Hagar."}
+{"instruction": "Who was the first son he had?","input": "","output": "Ishmael."}
+{"instruction": "What was Abram's name changed to?","input": "","output": "Abraham"}
+{"instruction": "What was Sarai's name changed to?","input": "","output": "Sarah"}
+{"instruction": "What was the second son Abraham had?","input": "","output": "Isaac"}
+{"instruction": "Who did Abraham have his second son with?","input": "","output": "Sarah"}
+{"instruction": "Where did Hagar and her son leave to?","input": "","output": "Into the desert"}
+{"instruction": "Who did Abraham send to find Isaac a wife?","input": "","output": "His oldest servant"}
+{"instruction": "Who did the servant choose?","input": "","output": "Rebekah"}
+{"instruction": "What were Isaac's sons' names?","input": "","output": "Jacob and Esau"}
+{"instruction": "Who was born first?","input": "","output": "Esau came first, with Jacob grabbing his heel."}
+{"instruction": "How did Esau provide food for the family?","input": "","output": "He hunted."}
+{"instruction": "Who did Isaac favor of his two sons?","input": "","output": "Esau"}
+{"instruction": "What did Jacob do most of the time?","input": "","output": "Stayed in the home with his mother."}
+{"instruction": "What did Esau receive in exchange for his birthright?","input": "","output": "Some stew."}
+{"instruction": "As Isaac was dying and blind, who suggested that Jacob should steal the blessing?","input": "","output": "Rebekah."}
+{"instruction": "How did Esau respond when his birthright was taken?","input": "","output": "Threatened to kill Jacob."}
+{"instruction": "When Jacob met Laban, which daughter did he want to marry?","input": "","output": "Rachel."}
+{"instruction": "Who did Laban trick Jacob into marrying?","input": "","output": "Leah."}
+{"instruction": "What did Laban make Jacob do to finally marry Rachel?","input": "","output": "Work another seven years."}
+{"instruction": "Who was the first son Jacob had with Rachel?","input": "","output": "Joseph"}
+{"instruction": "What did God change Jacob's name to before his meeting with Esau?","input": "","output": "Israel"}
+]
+{"instruction": "How many brothers did Joseph have?","input": "","output": "12"}
+{"instruction": "What did Jacob give Joseph that sparked jealousy from his siblings?","input": "","output": "A coat of many colors."}
+{"instruction": "What did Joseph tell his brothers about his dreams that upset them?","input": "","output": "The dreams said he would become greater and rule over them."}
+{"instruction": "How did the brothers get rid of Joseph?","input": "","output": "Sold him to slave traders."}
+{"instruction": "What did Joseph's brothers tell their father had happened to him?","input": "","output": "They said Joseph was killed by a wild animal."}
+{"instruction": "Where did the slave traders take Joseph?","input": "","output": "Egypt"}
+{"instruction": "Who bought Joseph?","input": "","output": "Potiphar, captain of the Pharaoh's guards"}
+{"instruction": "Who got Joseph thrown into prison by lying about him?","input": "","output": "Potiphar's wife"}
+{"instruction": "Who else was in prison with Joseph?","input": "","output": "The Pharaoh's cupbearer and chief baker."}
+{"instruction": "What did Joseph do for them?","input": "","output": "Interrupted their dreams."}
+{"instruction": "Why was Joseph summoned out of prison by the Pharaoh?","input": "","output": "To interrupt his dream."}
+{"instruction": "What position of power was Joseph given by the Pharaoh?","input": "","output": "Second in command of Egypt."}
+{"instruction": "What catastrophe did Joseph predict by interpreting the Pharaoh's dream?","input": "","output": "A severe, seven-year famine."}
+{"instruction": "Who came to Egypt that Joseph recognized because of the famine?","input": "","output": "His brothers."}
+{"instruction": "Who was Jacob's second son with Rachel?","input": "","output": "Benjamin"}
+{"instruction": "What did Joseph tell the brothers to do next time they came back to Egypt?","input": "","output": "To bring Benjamin with them."}
+{"instruction": "Which brother volunteered to stay in Egypt instead of Benjamin?","input": "","output": "Judah"}
+{"instruction": "What did Joseph tell his brothers to do when they returned to Canaan?","input": "","output": "Bring their families and their father to Egypt."}
+{"instruction": "How did Moses' mother save him from the Egyptian soldiers?","input": "","output": "Put him in a basket in the river."}
+{"instruction": "What did Moses do after he killed an Egyptian?","input": "","output": "Ran away into the desert."}
+{"instruction": "Through what did God speak to Moses in the desert?","input": "","output": "A burning bush"}
+{"instruction": "When Moses confronted the Pharaoh, what did his staff turn into when he threw it on the ground?","input": "","output": "A snake"}
+{"instruction": "What did Moses say God commanded the Pharaoh to do?","input": "","output": "Let the Israelite slaves go free."}
+{"instruction": "How many plagues did God send on Egypt?","input": "","output": "10"}
+{"instruction": "What was the final plague that convinced Pharaoh to let the slaves go?","input": "","output": "The firstborn son of all Egyptian families died."}
+{"instruction": "When Pharaoh changed his mind and sent his army after the slaves, where did they meet at?","input": "","output": "By the Red Sea"}
+{"instruction": "What did God through Moses to save the slaves?","input": "","output": "Parted the Red Sea"}
+{"instruction": "When the Egyptians tried to follow the Israelites through the Red Sea, what happened?","input": "","output": "The water crashed on them and killed them all."}
+{"instruction": "What did God send to feed the Israelites in the desert?","input": "","output": "Quail and manna"}
+{"instruction": "Where did God give Moses the Ten Commandments?","input": "","output": "Mt. Sinai"}
+{"instruction": "What golden image did the Israelites make at Mt. Sinai?","input": "","output": "A golden calf"}
+{"instruction": "What did the spies sent into Canaan see that made them scared?","input": "","output": "Giants in the land"}
+{"instruction": "Who were the only two Israelites allowed to go into the Promised Land after many years?","input": "","output": "Joshua and Caleb"}
+{"instruction": "What city did God make the walls fall so Joshua and the Israelites could conquer it?","input": "","output": "Jericho"}
+{"instruction": "After they took over the Promised Land and Joshua died, who ruled Israel?","input": "","output": "Judges"}
+{"instruction": "Who was the woman judge who led Israel to victory?","input": "","output": "Deborah"}
+{"instruction": "Who was the judge who defeated the Midianites with only 300 men using torches and horns?","input": "","output": "Gideon"}
+{"instruction": "Who was the judge who took a Nazarite vow from birth and fought against the Philistines?","input": "","output": "Samson"}
+{"instruction": "With what did Samson kill 1,000 Philistines?","input": "","output": "A donkey's jawbone"}
+{"instruction": "What Philistine woman asked Samson what his power came from?","input": "","output": "Delilah"}
+{"instruction": "How did Samson die?","input": "","output": "Pushing over the temple pillars, killing himself and many Philistines."}
+{"instruction": "Who was the first king of Israel?","input": "","output": "Saul"}
+{"instruction": "Who anointed him king?","input": "","output": "Samuel"}
+{"instruction": "Who was the enemy who took the Ark of the Covenant?","input": "","output": "Philistines"}
+{"instruction": "What happened the idol which was beside the Ark in the enemy's temple?","input": "","output": "The idol fell over and broke"}
+{"instruction": "When the people demanded Saul make a sacrifice to God that only priests should make, what did he do?","input": "","output": "Made the sacrifice anyways"}
+{"instruction": "When Saul conquered the Amalekites, what person did he keep as a prisoner instead of killing like God said to?","input": "","output": "The king, Agag"}
+{"instruction": "What was Saul's punishment for disobeying?","input": "","output": "God took his kingdom away"}
+{"instruction": "Who was the king of Israel anointed by Samuel after Saul?","input": "","output": "David"}
+{"instruction": "What did David work as for his father?","input": "","output": "A shepherd"}
+{"instruction": "When the Philistines came to attack the Israelites, who mocked God and challenged them?","input": "","output": "Goliath the giant."}
+{"instruction": "When David wanted to fight Goliath, what did Saul try to give him?","input": "","output": "His armor"}
+{"instruction": "What did David take from the brook to fight Goliath with?","input": "","output": "Five stones"}
+{"instruction": "How many sling-throws did it take David to hit Goliath?","input": "","output": "One"}
+{"instruction": "Who was Saul's son that David befriended?","input": "","output": "Jonathan"}
+{"instruction": "What did Saul throw to try to kill David?","input": "","output": "A javelin/spear"}
+{"instruction": "What did Jonathan do to save David's life from Saul?","input": "","output": "Warned him that Saul would try to kill him"}
+{"instruction": "What foreign country did David run away to?","input": "","output": "Land of the Philistines/Philistia"}
+{"instruction": "Did Saul give up on chasing David when David went into the wilderness?","input": "","output": "No"}
+{"instruction": "How many times did David spare Saul's life?","input": "","output": "Twice"}
+{"instruction": "Where did David spare Saul's life the first time?","input": "","output": "In a cave"}
+{"instruction": "Where did David spare Saul's life the second time?","input": "","output": "In the camp where Saul was sleeping"}
+{"instruction": "What last judge of Israel died after Saul made a temporary peace with David?","input": "","output": "Samuel"}
+{"instruction": "Where did David go after Saul continued to hunt him?","input": "","output": "The Land of the Philistines/ Philistia"}
+{"instruction": "Where did Saul turn to for advice when he couldn't sense God's will?","input": "","output": "A witch"}
+{"instruction": "What prophet did he ask to speak to?","input": "","output": "Samuel"}
+{"instruction": "How did Saul die?","input": "","output": "Fell on his own sword"}
+{"instruction": "How many of his sons died in the same battle?","input": "","output": "All of them"}
+{"instruction": "Did all of Israel immediately consider David their king?","input": "","output": "No"}
+{"instruction": "Who was David's captain of his army?","input": "","output": "Joab"}
+{"instruction": "When David stayed in Jerusalem, what woman did he see and commit adultery with?","input": "","output": "Bathsheba"}
+{"instruction": "Who was Bathsheba's husband?","input": "","output": "Uriah"}
+{"instruction": "When Bathsheba got pregnant, what did David make happen to Uriah?","input": "","output": "He was killed in battle"}
+{"instruction": "What prophet came to rebuke David?","input": "","output": "Nathan"}
+{"instruction": "What happened to Bathsheba's child?","input": "","output": "The child died"}
+{"instruction": "When Bathsheba had another child, what did they name him?","input": "","output": "Solomon"}
+{"instruction": "Who was David's son that started a rebellion against him?","input": "","output": "Absalom"}
+{"instruction": "What capital city did David abandon as Absalom came towards it?","input": "","output": "Jerusalem"}
+{"instruction": "When the two armies battled, what happened to Absalom's hair?","input": "","output": "It got caught in a tree"}
+{"instruction": "Who killed Absalom?","input": "","output": "Joab"}
+{"instruction": "Because he killed Absalom, what was Joab's punishment?","input": "","output": "He was not captain anymore"}
+{"instruction": "What was David's second sin recorded in the Bible?","input": "","output": "He took a census of the people in his nation"}
+{"instruction": "During his time as king, who was David's main enemy?","input": "","output": "Philistines"}
+{"instruction": "Which books of the Bible record David's time as king?","input": "","output": "1st and 2nd Samuel"}
+{"instruction": "Which book did David write most of?","input": "","output": "Psalms"}
+{"instruction": "Who was David's son that became king?","input": "","output": "Solomon"}
+{"instruction": "What trait did Solomon pray for from God?","input": "","output": "Wisdom"}
+{"instruction": "What did Solomon build for the Lord?","input": "","output": "A temple"}
+{"instruction": "What famous queen came to visit Solomon?","input": "","output": "Queen of Sheba"}
+{"instruction": "How many wives did Solomon have?","input": "","output": "700"}
+{"instruction": "Did Solomon always follow the Lord?","input": "","output": "No. He turned from God."}
+{"instruction": "Who convinced Solomon to turn from God?","input": "","output": "His wives"}
+{"instruction": "What happened to the kingdom after Solomon's rule?","input": "","output": "It split in two"}
+{"instruction": "Which books of the Bible record all the kings?","input": "","output": "1st and 2nd Kings, 1st and 2nd Chronicles"}
+{"instruction": "Which books of the Bible did Solomon write?","input": "","output": "Song of Solomon and Proverbs and some Psalms"}
+{"instruction": "How many kings of Judah were there?","input": "","output": "20"}
+{"instruction": "How many kings of Israel were there?","input": "","output": "19"}
+{"instruction": "Who conquered Judah and took Daniel to their country?","input": "","output": "Babylonians"}
+{"instruction": "Whose dream did Daniel interpret in -Babylon?","input": "","output": "King Nebuchadnezzar"}
+{"instruction": "Who was the last king Daniel served under in the Bible?","input": "","output": "Darius"}
+{"instruction": "When Daniel prayed to God after it was not allowed, where was he thrown into?","input": "","output": "The lion's den"}
+{"instruction": "What were Daniel's three friends (Babylonian names)?","input": "","output": "Shadrach, Meshach, Abednego"}
+{"instruction": "When they refused to bow to an idol, where were they thrown?","input": "","output": "Into a fiery furnace"}
+{"instruction": "Who returned to Israel to build up the walls of Jerusalem?","input": "","output": "Nehemiah"}
+{"instruction": "What Israelite saved her people from being murdered and was a wife of the king?","input": "","output": "Esther"}
+{"instruction": "What daring thing did Esther do to talk with the king?","input": "","output": "Went in to talk without being summoned first"}
+{"instruction": "Who let the Israelites return to their homeland?","input": "","output": "Cyrus"}
+{"instruction": "Who eventually came from the lineage of David?","input": "","output": "Jesus"}
+{"instruction": "Who was Jesus' human mother?","input": "","output": "Mary"}
+{"instruction": "Who was Jesus' adoptive father on Earth?","input": "","output": "Joseph"}
+{"instruction": "Who was Jesus' birth father?","input": "","output": "God the Holy Spirit (see Matt 1:20)"}
+{"instruction": "Name the city where Jesus was born?","input": "","output": "Bethlehem"}
+{"instruction": "Where did Jesus' family go when Herod wanted to harm him as baby?","input": "","output": "Egypt"}
+{"instruction": "True or False: Because Jesus was God, he didn't obey his parents' rules.","input": "","output": "False Jesus obeyed his parents (see Luke 2:51)"}
+{"instruction": "True or False: Jesus was an only child.","input": "","output": "False - Jesus had brothers and sister - see Mark 6:3"}
+{"instruction": "How many of Jesus' brothers are named in the Bible?","input": "","output": "Four"}
+{"instruction": "How many of Jesus' sisters are named in the Bible?","input": "","output": "None"}
+{"instruction": "Name one of Jesus' brothers?","input": "","output": "James, Joseph, Simon and Judas"}
+{"instruction": "Who was Jesus' most famous cousin?","input": "","output": "John the Baptist"}
+{"instruction": "True or False: John the Baptist wore clothes made of goat hair?","input": "","output": "False  it was camel hair"}
+{"instruction": "Who baptized Jesus?","input": "","output": "John the Baptist"}
+{"instruction": "Who spoke from the sky when Jesus was baptized?","input": "","output": "God"}
+{"instruction": "What did God say?","input": "","output": "That he was well-pleased with his son."}
+{"instruction": "What happened when Jesus went into the wilderness?","input": "","output": "He was tempted by Satan"}
+{"instruction": "Before Jesus starting preaching, what was his normal job?","input": "","output": "Carpenter (construction worker) See Mark 6:3"}
+{"instruction": "Name Jesus' hometown.","input": "","output": "Nazareth"}
+{"instruction": "True or False: Jesus turned water into Coca-Cola?","input": "","output": "False, Jesus turned water into wine."}
+{"instruction": "Besides preaching, name an activity Jesus did while traveling in Galilee.","input": "","output": "Healing the sick and casting out demons."}
+{"instruction": "True or False: Jesus stayed away from people with bad reputations?","input": "","output": "False  He often ate with sinners."}
+{"instruction": "Name the place where Jesus walked on water?","input": "","output": "Sea of Galilee"}
+{"instruction": "True or False: At first, Jesus family tried to stop his ministry and said he was crazy.","input": "","output": "True - see Mark 3:11"}
+{"instruction": "True or False: Jesus said his true family was anyone who obeys God.","input": "","output": "True see Mark 3:34-35"}
+{"instruction": "True or False: Everywhere he went, people loved Jesus and believed his message?","input": "","output": "False many times Jesus was rejected."}
+{"instruction": "Which member of the Jewish ruling counsel came to ask Jesus questions at night?","input": "","output": "Nicodemus"}
+{"instruction": "True or False: Jesus didn't like the people because they worshiped God the wrong way?","input": "","output": "False  Jesus welcomed all to follow him"}
+{"instruction": "How many disciples did Jesus choose?","input": "","output": "12"}
+{"instruction": "What was Matthew before he followed Jesus?","input": "","output": "A tax collector"}
+{"instruction": "True or False: Jesus would sometimes spit as part of his healing miracles.","input": "","output": "True - Three times the Bible describes him spitting.  see Mark 7:33, Mark 8:23, John 9:6"}
+{"instruction": "What is the shortest verse in the Bible?","input": "","output": "John 11:35 Jesus wept."}
+{"instruction": "Why did Jesus weep in that verse?","input": "","output": "Because his friend Lazarus died."}
+{"instruction": "How many days was Lazarus dead before Jesus came to visit?","input": "","output": "Four days"}
+{"instruction": "What 2 things did Jesus do to raise Lazarus back to life?","input": "","output": "He prayed and then told Lazarus to come out."}
+{"instruction": "Who helped pay the bills for Jesus and the disciples ministry?","input": "","output": "Several women who he had healed  see Luke 8:1-3"}
+{"instruction": "Name the demon Jesus cast out in the region of the Gerasenes?","input": "","output": "Legion"}
+{"instruction": "True or False: While on Earth, Jesus had the power to raise dead people back to life?","input": "","output": "True several examples"}
+{"instruction": "How much bread and fish did Jesus use to feed over 5000 people?","input": "","output": "Five loaves of bread and two fish"}
+{"instruction": "True or False: Jesus' said washing hands is never important.","input": "","output": "False he said dirty hands don't make a person spiritually unclean. You can still get germs!"}
+{"instruction": "What was Peter and Andrew doing when Jesus' called them to follow him?","input": "","output": "Fishing"}
+{"instruction": "Name the two Old Testament people who appeared when Jesus was transfigured?","input": "","output": "Elijah and Moses"}
+{"instruction": "True or False: Jesus ask the children to stay back while he was teaching important things to grown-ups.","input": "","output": "False Jesus welcomed children"}
+{"instruction": "What problem did Bartimaeus have that Jesus fixed?","input": "","output": "He was blind"}
+{"instruction": "True or False: When Jesus went to the Temple, he always used his inside voice.","input": "","output": "False Jesus drove out the money changers"}
+{"instruction": "How many people did Jesus feed with fish and bread?","input": "","output": "5,000 people"}
+{"instruction": "How many lepers did Jesus heal when only 1 returned?","input": "","output": "10"}
+{"instruction": "What did Jesus do at the Last Supper to his disciples?","input": "","output": "Washed their feet"}
+{"instruction": "What did the woman pour on Jesus' feet at the home of Simon the Leeper?","input": "","output": "Jar of expensive perfume"}
+{"instruction": "Name the disciple who betrayed Jesus.","input": "","output": "Judas Iscariot"}
+{"instruction": "What garden did Jesus go to when he prayed after the Last Supper?","input": "","output": "Garden of Gethsemane"}
+{"instruction": "True or False: The Jewish leaders tried to set Jesus free.","input": "","output": "False - They lobbied for his crucifixion"}
+{"instruction": "Who gave Jesus a crown made of thorns?","input": "","output": "Roman soldier"}
+{"instruction": "Name the Roman Governor who sat over Jesus trial?","input": "","output": "Pilate"}
+{"instruction": "What did Pilate do to Òcleanse himselfÓ of the crucifixion?","input": "","output": "Washed his hands"}
+{"instruction": "Who cut off a soldier's ear when Jesus was being arrested?","input": "","output": "Peter"}
+{"instruction": "True or False: Jesus didn't know that he was going to be arrested and killed in Jerusalem.","input": "","output": "False - He knew and told his disciples before it happened."}
+{"instruction": "Which disciple denied Jesus three times?","input": "","output": "Peter"}
+{"instruction": "What happened to the temple curtain when Jesus was killed?","input": "","output": "It was ripped"}
+{"instruction": "What happened after Jesus was buried in the tomb?","input": "","output": "He rose again"}
+{"instruction": "What was rolled away from the entrance of the tomb?","input": "","output": "A large stone"}
+{"instruction": "What day of the week did Jesus rise back to life?","input": "","output": "Sunday  the first day of the week"}
+{"instruction": "How many days before Jesus returned to Heaven?","input": "","output": "40 days"}
+{"instruction": "How did Jesus leave Earth and go to Heaven?","input": "","output": "He rose up into the clouds"}
+{"instruction": "How many people saw Jesus after he came back from the dead?","input": "","output": "More than 500 - see 1 Cor 15:38"}
+{"instruction": "What was another name for the Apostle Paul?","input": "","output": "Saul of Tarsus"}
+{"instruction": "Who was the first Christian to die for his faith?","input": "","output": "Stephen"}
+{"instruction": "How many books have the name John in them?","input": "","output": "Four (John, 1 John, 2, John, 3 John)"}
+{"instruction": "Who preached at Pentecost?","input": "","output": "Peter"}
+{"instruction": "What amazing miracle happened with languages?","input": "","output": "Everybody heard the sermon in their own language."}
+{"instruction": "Who was Saul?","input": "","output": "He persecuted Christians"}
+{"instruction": "What happened when he was on the road to Damascus?","input": "","output": "He had a changing experience with Jesus"}
+{"instruction": "What was his name changed to?","input": "","output": "Paul"}
+{"instruction": "Who was exiled to an island?","input": "","output": "John"}
+{"instruction": "Who was crucified upside down?","input": "","output": "Peter"}
+{"instruction": "Who was the first martyr and was stoned?","input": "","output": "Stephen"}
+{"instruction": "True or False: Ananias and Sapphira died after lying to the Apostles about their offering.","input": "","output": "True"}
+{"instruction": "How many deacons were chosen to help the apostles to distribute food to widows?","input": "","output": "Seven"}
+{"instruction": "Which Apostle took the Gospel to the city of Samaria?","input": "","output": "Philip"}
+{"instruction": "Which Apostle shared the Gospel with an Ethiopian official on the road to Gaza?","input": "","output": "Philip"}
+{"instruction": "True or False: Peter raised a woman named Dorcas from the dead.","input": "","output": "True - see Acts 9"}
+{"instruction": "Where did Peter stay during his ministry in the city of Joppa?","input": "","output": "In the house of Simon the tanner"}
+{"instruction": "What did Peter's vision about the unclean animals mean?","input": "","output": "That all people can be made clean through Jesus - aka non-Jews can be saved."}
+{"instruction": "In what city were Jesus' followers first called Christians?","input": "","output": "Antioch"}
+{"instruction": "True or False: Peter was rescued from prison by an Angel.","input": "","output": "True"}
+{"instruction": "Who went with Paul on his early mission trips?","input": "","output": "Barnabas"}
+{"instruction": "What did the Philippian jailer say to Paul after he heard the Gospel?","input": "","output": "What must I do to be saved?"}
+{"instruction": "How did Paul and Silas respond?","input": "","output": "Believe in the Lord Jesus, and you will be saved."}
+{"instruction": "What was Paul's goal in his missionary journey?","input": "","output": "To take the gospel everywhere and finally to preach in the capitol Rome"}
+{"instruction": "Where can you find the 10 commandments in the Bible?","input": "","output": "Exodus 20 and Deuteronomy 5"}
+{"instruction": "Name the person who received the 10 Commandments from God?","input": "","output": "Moses"}
+{"instruction": "What is the preamble or introduction to the Commandments?","input": "","output": "I am the LORD your God who brought you out of Egypt (slavery)."}
+{"instruction": "What is the 1st commandment?","input": "","output": "You shall have no other gods before me."}
+{"instruction": "What is the 2nd commandment?","input": "","output": "You shall not make idols."}
+{"instruction": "What is the 3rd commandment?","input": "","output": "You shall not misuse the name of the LORD your God."}
+{"instruction": "What is the 4th commandment?","input": "","output": "Observe the Sabbath day by keeping it holy."}
+{"instruction": "What is the 5th commandment?","input": "","output": "Honor your father and mother."}
+{"instruction": "What is the 6th commandment?","input": "","output": "You shall not murder."}
+{"instruction": "What is the 7th commandment?","input": "","output": "You shall not commit adultery."}
+{"instruction": "What is the 8th commandment?","input": "","output": "You shall not steal."}
+{"instruction": "What is the 9th commandment?","input": "","output": "You shall not give false testimony."}
+{"instruction": "What is the 10th commandment?","input": "","output": "You shall not covet."}
+{"instruction": "True or False: Jesus said the OT rules don't matter anymore.","input": "","output": "False - See Matt 5:17"}
+{"instruction": "How many rules does Jesus use to summarize all the OT rules?","input": "","output": "Two"}
+{"instruction": "What does Jesus say is the first and greatest commandment?","input": "","output": "Love God with all your heart, minds, soul, and strength."}
+{"instruction": "What does Jesus says is the second commandment?","input": "","output": "Love your neighbor as yourself."}
+{"instruction": "Where is the Fruit of the Spirit found in the Bible?","input": "","output": "Galatians 5"}
+{"instruction": "Which human author wrote Galatians?","input": "","output": "Paul"}
+{"instruction": "True or False: Bananas are a fruit of the Spirit? ..","input": "","output": "False - Bananas are a gift from God but not considered spiritual fruit in Galatians 5."}
+{"instruction": "Name any of the 9 Fruit of the Spirit.","input": "","output": "love, joy, peace, patience, kindness, goodness, faithfulness,  gentleness and self-control.  (sometimes patience is translated forbearance or longsuffering (see Galatians 5:22)"}
+{"instruction": "True or False: The opposite of the Fruit of the Spirit are called the works of the flesh.","input": "","output": "True - see Galatians 5:19-21"}
+{"instruction": "Where in the Bible can you find the Lord's Prayer?","input": "","output": "Matthew 6"}
+{"instruction": "Who taught the Lord's Prayer?","input": "","output": "Jesus"}
+{"instruction": "How many requests are in the Lord's Prayer?","input": "","output": "Seven"}
+{"instruction": "What is the 1st petition?","input": "","output": "Hallowed be your name"}
+{"instruction": "What is the 2nd petition?","input": "","output": "Your kingdom come"}
+{"instruction": "What is the 3rd petition?","input": "","output": "Your will be done on Earth"}
+{"instruction": "What is the 4th petition?","input": "","output": "Give us our daily bread"}
+{"instruction": "What is the 5th petition?","input": "","output": "Forgive our debts"}
+{"instruction": "What is the 6th petition?","input": "","output": "Don't lead us into temptation"}
+{"instruction": "What is the 7th petition?","input": "","output": "Deliver us from evil"}
+{"instruction": "True or False: The more words we say makes our prayers better.","input": "","output": "False. Jesus said God already knows what we need"}
+{"instruction": "What was the name of Jesus’ mother?","input": "","output": "Mary (Matt 1:18)"}
+{"instruction": "What was the name of the garden where Adam and Eve lived?","input": "","output": "Garden of Eden (Gen 2:8)"}
+{"instruction": "With what food did Jesus feed 5,000 people?","input": "","output": "Loaves of bread and fishes (Matt 14:19)"}
+{"instruction": "What method did the Romans use to kill Jesus?","input": "","output": "Crucifixion (Mark 15:25)"}
+{"instruction": "From which part of Adam’s body did God create Eve?","input": "","output": "Rib (Gen 2:21)"}
+{"instruction": "Who, when accused of being with Jesus, lied and said that he did not know him, three times?","input": "","output": "(Simon) Peter (Matt 26:69-74)"}
+{"instruction": "Which creature tricked Eve into eating of the forbidden fruit?","input": "","output": "Serpent (Gen 3:1-6)"}
+{"instruction": "At Christ’s crucifixion what did the soldiers place on his head?","input": "","output": "Crown of Thorns (Matt 27:29)"}
+{"instruction": "What is the first line of the Lord’s Prayer?","input": "","output": "Our Father which art in heaven (Matt 6:9)"}
+{"instruction": "What relationship was Ruth to Naomi?","input": "","output": "Daughter-in-law (Ruth 1:4)"}
+{"instruction": "Who lied to God when he was asked where his brother was?","input": "","output": "Cain (Gen 4:9)"}
+{"instruction": "Which Old Testament character showed his faith by being willing to offer his son on an altar to God?","input": "","output": "Abraham (Jam 2:21-22)"}
+{"instruction": "What significant event is recorded in Genesis chapters 1 and 2?","input": "","output": "Creation (Gen 1 - 2)"}
+{"instruction": "What was inscribed above Jesus’ cross?","input": "","output": "King of the Jews / This is Jesus, King of the Jews (Mark 15:26; Matt 27:27)"}
+{"instruction": "Whose mother placed him in an ark of bulrushes?","input": "","output": "Moses (Exo 2:3)"}
+{"instruction": "For how many days and nights did it rain in the story of the flood?","input": "","output": "Forty (Gen 7:12)"}
+{"instruction": "What was special about Jesus’ mother?","input": "","output": "She was a virgin (Matt 1:23)"}
+{"instruction": "Who gave gifts to Jesus when he was a young child?","input": "","output": "Wise men / magi (Matt 2:7-10)"}
+{"instruction": "What happened to Jonah after he was thrown overboard?","input": "","output": "He was swallowed by a great fish (Jon 1:17)"}
+{"instruction": "In whose image was man created?","input": "","output": "God’s (Gen 1:27)"}
+{"instruction": "How many apostles did Jesus choose?","input": "","output": "Twelve (Luke 6:13)"}
+{"instruction": "What are the wages of sin?","input": "","output": "Death (Rom 6:23)"}
+{"instruction": "Who is the first mother mentioned in the Bible?","input": "","output": "Eve (Gen 4:1)"}
+{"instruction": "Who else, other than the wise men, came to visit Jesus when he was a small child?","input": "","output": "Shepherds (Luke 2:16)"}
+{"instruction": "Who lied when he was asked to reveal the source of his great strength?","input": "","output": "Samson (Jdg 16:15)"}
+{"instruction": "What was the name of the man Jesus’ mother was engaged to at the time she became pregnant?","input": "","output": "Joseph (Matt 1:19)"}
+{"instruction": "Which book of the Bible records many of the hymns David wrote?","input": "","output": "Psalms (Ps 1:1-150:6)"}
+{"instruction": "From what disaster did the Ark save Noah?","input": "","output": "Flood (Gen 7:7)"}
+{"instruction": "What happened to Jesus forty days after his resurrection?","input": "","output": "He ascended into heaven (Acts 1:3-11)"}
+{"instruction": "What animals did Jesus cause to run into the sea and drown?","input": "","output": "Pigs (Matt 8:32)"}
+{"instruction": "On what were the Ten Commandments written?","input": "","output": "Two tables of stone (Deut 5:22)"}
+{"instruction": "What did Jesus sleep in after he was born?","input": "","output": "Manger (Luke 2:7)"}
+{"instruction": "What was man created from?","input": "","output": "Dust of the ground (Gen 2:7)"}
+{"instruction": "What did Jesus do to each of the disciples during the Last Supper?","input": "","output": "Washed their feet (John 13:1-5)"}
+{"instruction": "To which city did God ask Jonah to take his message?","input": "","output": "Nineveh (Jon 1:2)"}
+{"instruction": "Who was David’s father?","input": "","output": "Jesse (Ruth 4:22)"}
+{"instruction": "Which of the gospels appears last in the Bible?","input": "","output": "John (Matt 1:1 - John 21:25)"}
+{"instruction": "What is the only sin that cannot be forgiven?","input": "","output": "Blasphemy against the Holy Spirit (Mark 3:29)"}
+{"instruction": "How did David defeat Goliath?","input": "","output": "He hit him with a stone from his sling (1 Sam 17:49-50)"}
+{"instruction": "What did Joseph’s brothers do to get rid of him?","input": "","output": "Threw him in a pit and then sold him to strangers (Gen 37:24-27)"}
+{"instruction": "Who wrote the letter to Philemon?","input": "","output": "Paul (Phm 1:1)"}
+{"instruction": "In what was Jesus wrapped before he was buried?","input": "","output": "Linen clothes (John 19:40)"}
+{"instruction": "What was the name of Moses’ brother?","input": "","output": "Aaron (Exo 7:1)"}
+{"instruction": "What sin is Cain remembered for?","input": "","output": "Murder (Gen 4:8)"}
+{"instruction": "“The Lord is my Shepherd,” is the opening line to which Psalm?","input": "","output": "Psalm 23 (Ps 23:1)"}
+{"instruction": "What is the last book of the New Testament?","input": "","output": "Revelation (Rev 1:1-22:21)"}
+{"instruction": "Who wrote the majority of the New Testament letters?","input": "","output": "Paul (Rom 1:1 - Jude 1:25)"}
+{"instruction": "What was David’s occupation before he became king?","input": "","output": "Shepherd (1 Sam 17:15)"}
+{"instruction": "Who hid two spies but claimed not to know of their whereabouts when asked?","input": "","output": "Rahab (Josh 2:1-5)"}
+{"instruction": "Whose prayer resulted in his being thrown into a den of lions?","input": "","output": "Daniel (Dan 6:7)"}
+{"instruction": "What was the apparent source of Samson’s strength?","input": "","output": "Long hair (Jdg 16:17)"}
+{"instruction": "From which country did Moses help the Israelites escape from their lives of slavery?","input": "","output": "Egypt (Exo 13:3)"}
+{"instruction": "Who was the fourth person in the fiery furnace along with Daniel’s friends?","input": "","output": "An angel (Dan 3:28)"}
+{"instruction": "What did Joseph’s brothers do to deceive their father to cover up that they had sold Joseph into slavery?","input": "","output": "Dipped his coat in the blood of a goat (Gen 37:31)"}
+{"instruction": "What kind of leaves did Adam and Eve sew together to make clothes for themselves?","input": "","output": "Fig (Gen 3:7)"}
+{"instruction": "Who did Jesus say was the “father of lies”?","input": "","output": "The devil (John 8:44)"}
+{"instruction": "What was the name of the tower that the people were building when God confused their language?","input": "","output": "Tower of Babel (Gen 11:4,9)"}
+{"instruction": "What is the common name of the prayer that Jesus taught to his disciples?","input": "","output": "The Lord’s Prayer (Matt 6:9)"}
+{"instruction": "Whose name means “father of a great multitude”?","input": "","output": "Abraham (Gen 17:5)"}
+{"instruction": "Of what did Potiphar’s wife falsely accuse Joseph resulting in him being thrown into prison?","input": "","output": "Rape (Gen 39:12-20)"}
+{"instruction": "Which sea did the Israelites cross through to escape the Egyptians?","input": "","output": "Red Sea (Exo 13:18)"}
+{"instruction": "What is “more difficult than a camel going through the eye of a needle”?","input": "","output": "A rich man entering the Kingdom of God (Matt 19:24)"}
+{"instruction": "For how many years did the Israelites wander in the wilderness?","input": "","output": "Forty (Josh 5:6)"}
+{"instruction": "What does a “good tree” bring forth?","input": "","output": "Good fruit (Matt 7:17)"}
+{"instruction": "Which small body part can “boast of great things”?","input": "","output": "Tongue (Jam 3:5)"}
+{"instruction": "What was the name of Abraham’s first wife?","input": "","output": "Sarah (Gen 17:15)"}
+{"instruction": "What did God do on the seventh day, after he had finished creating everything?","input": "","output": "Rested (Gen 2:1-3)"}
+{"instruction": "On what day did the apostles receive the Holy Spirit?","input": "","output": "Day of Pentecost (Acts 2:1-4)"}
+{"instruction": "At the Last Supper, what items of food and drink did Jesus give thanks for?","input": "","output": "Bread and wine (Matt 26:26-27)"}
+{"instruction": "When Jesus was in the wilderness, what was he tempted to turn into loaves of bread?","input": "","output": "Stones (Matt 4:3)"}
+{"instruction": "What were the religious leaders called who continually tried to trap Jesus with their questions?","input": "","output": "Pharisees and Sadducees (Mark 10:2)"}
+{"instruction": "What miracle did Jesus do for Lazarus?","input": "","output": "Raised him from the dead (John 11:43-44)"}
+{"instruction": "On which mountain were the Israelites given the Ten Commandments?","input": "","output": "Mt. Sinai (Exo 34:32)"}
+{"instruction": "Who was Solomon’s father?","input": "","output": "David (1 Ki 2:12)"}
+{"instruction": "What job did Jesus’ earthly father, Joseph, do?","input": "","output": "Carpenter (Matt 13:55)"}
+{"instruction": "How did Judas betray Christ?","input": "","output": "With a kiss (Luke 22:48)"}
+{"instruction": "Solomon judged wisely over the rightful mother of a child, but how did he determine who the child belonged to?","input": "","output": "Threatened to divide the child (with a sword) (1 Ki 3:25)"}
+{"instruction": "Whose father was prepared to sacrifice him on an altar?","input": "","output": "Isaac (Gen 22:9)"}
+{"instruction": "At the age of twelve, Jesus was left behind in Jerusalem. Where did his parents find him?","input": "","output": "In the temple (Luke 2:42-46)"}
+{"instruction": "When the disciples saw Jesus walking on water, what did they think he was?","input": "","output": "A ghost (Matt 14:26)"}
+{"instruction": "What gift did Salome, daughter of Herodias, ask for after she danced for Herod?","input": "","output": "John the Baptist’s head (Matt 14:6-8)"}
+{"instruction": "How did Samson kill all the people in the temple?","input": "","output": "Pushed the pillars over and the temple collapsed (Jdg 16:30)"}
+{"instruction": "Which musical instrument did David play for Saul?","input": "","output": "Harp / Lyre (1 Sam 16:23)"}
+{"instruction": "What was Esau doing while Jacob stole his blessing?","input": "","output": "Hunting (Gen 27:1-3,23)"}
+{"instruction": "Why did Jacob initially send Joseph’s brothers into Egypt?","input": "","output": "To buy corn (Gen 42:2-3)"}
+{"instruction": "Who was David’s great friend?","input": "","output": "Jonathan (1 Sam 18:1)"}
+{"instruction": "Who said “thy God shall be my God”?","input": "","output": "Ruth (Ruth 1:16)"}
+{"instruction": "Which of Christ’s belongings did the soldiers cast lots for after they had crucified him?","input": "","output": "His (seamless) coat (Matt 27:35)"}
+{"instruction": "What does the name Emmanuel mean?","input": "","output": "God with us (Matt 1:23)"}
+{"instruction": "What does James say we should do if we lack wisdom?","input": "","output": "Ask God for wisdom, in faith (Jam 1:5)"}
+{"instruction": "Where did Jesus meet the woman of Samaria?","input": "","output": "By a well (John 4:7)"}
+{"instruction": "Which disciple tried to walk on water, as Jesus did?","input": "","output": "(Simon) Peter (Matt 14:29)"}
+{"instruction": "Why did Elimelech go to live in Moab with his family?","input": "","output": "Famine in his home town (Ruth 1:1-2)"}
+{"instruction": "Who lied about the price they received for a piece of land and died as a result?","input": "","output": "Ananias & Sapphira (Acts 5:1-11)"}
+{"instruction": "With whom did David commit adultery?","input": "","output": "Bathsheba (2 Sam 11:4)"}
+{"instruction": "When the Prodigal Son returned, his father gave him a robe, shoes and what other item?","input": "","output": "Ring (Luke 15:22)"}
+{"instruction": "How many books are there in the Bible?","input": "","output": "Sixty-six (Gen 1:1 - Rev 22:21)"}
+{"instruction": "What are the names of Lazarus’ sisters?","input": "","output": "Mary and Martha (John 11:1-3)"}
+{"instruction": "Where did Jonah go after being thrown overboard and reaching dry land?","input": "","output": "Nineveh (Jon 3:3)"}
+{"instruction": "For what did Esau sell his birthright to Jacob? Answers on Page 26","input": "","output": "A meal (Gen 25:30-34)"}
+{"instruction": "What happened to Elimelech in Moab?","input": "","output": "He died (Ruth 1:3)"}
+{"instruction": "What does the shepherd in the parable of the lost sheep do once he realizes one is missing?","input": "","output": "Goes and looks for it (Matt 18:12)"}
+{"instruction": "What is the name of the disciple who betrayed Jesus?","input": "","output": "Judas Iscariot (Mark 14:10)"}
+{"instruction": "What golden animal did the Israelites make as an idol?","input": "","output": "Calf (Exo 32:4)"}
+{"instruction": "Who did Jesus appear to first after his resurrection?","input": "","output": "Mary Magdalene (Mark 16:9)"}
+{"instruction": "What job did Peter and Andrew do?","input": "","output": "Fishermen (Matt 4:18)"}
+{"instruction": "Which prophet tried to flee from God when asked to preach God’s message in Nineveh?","input": "","output": "Jonah (Jon 1:2-3)"}
+{"instruction": "What is the collective name of the stories Jesus told to convey his message?","input": "","output": "Parables (Matt 13:10-13)"}
+{"instruction": "What was noticeable about Jacob’s twin brother, Esau, at birth?","input": "","output": "He was red and hairy (Gen 25:25)"}
+{"instruction": "Who wanted to kill Jesus when he was a baby?","input": "","output": "Herod (the Great) (Matt 2:13)"}
+{"instruction": "What did the earth look like in the beginning?","input": "","output": "Without form and empty (Gen 1:2)"}
+{"instruction": "How did the father first respond upon seeing the Prodigal Son returning home?","input": "","output": "He ran out and embraced him (Luke 15:20)"}
+{"instruction": "Which well known Psalm of David contains the line, “he maketh me to lie down in green pastures”?","input": "","output": "Psalm 23 (Ps 23:2)"}
+{"instruction": "Abraham’s wife, Sarah, bore a special son. What was his name?","input": "","output": "Isaac (Gen 17:19)"}
+{"instruction": "Which son did Jacob love more than all the others?","input": "","output": "Joseph (Gen 37:3)"}
+{"instruction": "Who was Jacob’s grandfather?","input": "","output": "Abraham (Matt 1:2)"}
+{"instruction": "To which city will all nations one day go to worship God?","input": "","output": "Jerusalem (Zec 14:16)"}
+{"instruction": "Who said, “I am the true vine”?","input": "","output": "Jesus (John 15:1)"}
+{"instruction": "When there was no water to drink in the wilderness, how did Moses provide it?","input": "","output": "God told him to strike a rock (Exo 17:6)"}
+{"instruction": "To which tribe did Jesus belong?","input": "","output": "Judah (Heb 7:14)"}
+{"instruction": "What tragedy did Jacob think had happened to Joseph?","input": "","output": "An evil beast had devoured him (Gen 37:33)"}
+{"instruction": "What affliction did Hannah suffer from, that allowed Peninnah to provoke her?","input": "","output": "She was barren (1 Sam 1:6)"}
+{"instruction": "Which is the gate that “leads to life”?","input": "","output": "The narrow gate (Matt 7:14)"}
+{"instruction": "What happened to the man who built his house upon the sand?","input": "","output": "His house fell flat (Matt 7:27)"}
+{"instruction": "What was the relationship of Mary (mother of Jesus) to Elisabeth?","input": "","output": "Cousin (Luke 1:36)"}
+{"instruction": "How should we treat those who are our enemies, according to Jesus?","input": "","output": "Love your enemies, bless them that curse you (Matt 5:44)"}
+{"instruction": "Who said, “Thou art my beloved Son, in thee I am well pleased”?","input": "","output": "God (Mark 1:11)"}
+{"instruction": "Which son did Jacob not send to Egypt for grain during the famine?","input": "","output": "Benjamin (Gen 42:4)"}
+{"instruction": "What does the word “gospel” mean?","input": "","output": "Good news (Mark 1:1 / Strongs G2098)"}
+{"instruction": "Who suggested that Jonah be thrown overboard?","input": "","output": "Jonah himself (Jon 1:12)"}
+{"instruction": "What did Ruth do to Boaz while he was sleeping?","input": "","output": "Uncovered his feet and lay down next to him (Ruth 3:7)"}
+{"instruction": "As Esau grew, he was described as a what...?","input": "","output": "Cunning hunter (Gen 25:27)"}
+{"instruction": "When Jesus went to dinner at Simon the Pharisee’s house, what did a woman do for him?","input": "","output": "Washed and anointed his feet with precious ointment (Luke 7:36-46)"}
+{"instruction": "What was Bathsheba doing when David first saw her?","input": "","output": "Washing herself (2 Sam 11:2)"}
+{"instruction": "When the law was given to the children of Israel, what were they told not to worship?","input": "","output": "Other gods (Exo 34:14; Deut 8:19)"}
+{"instruction": "Who ran from Mount Carmel to Samaria faster than Ahab could drive his chariot?","input": "","output": "Elijah (1 Ki 18:44-46)"}
+{"instruction": "How many sons did Jacob (Israel) have?","input": "","output": "Twelve (Gen 35:22)"}
+{"instruction": "Which disciple wanted to see the imprint of the nails before he would believe?","input": "","output": "Thomas (John 20:24-25)"}
+{"instruction": "Which king dreamed about a large statue of a man made from different metals?","input": "","output": "Nebuchadnezzar (Dan 2)"}
+{"instruction": "What form did the Holy Spirit take at the baptism of Jesus?","input": "","output": "Dove (Luke 3:22)"}
+{"instruction": "Complete the saying of Jesus: “for the tree is known by his ____”","input": "","output": "Fruit (Matt 12:33)"}
+{"instruction": "What miracle did Jesus perform at the marriage in Cana?","input": "","output": "Water into wine (John 2:1-11)"}
+{"instruction": "What was the first thing Noah built when he came out of the ark?","input": "","output": "Altar (Gen 8:20)"}
+{"instruction": "Who claimed that the golden calf simply came out of the fire?","input": "","output": "Aaron (Exo 32:24)"}
+{"instruction": "Towards which city was Saul travelling when he encountered a light from heaven?","input": "","output": "Damascus (Acts 9:3)"}
+{"instruction": "What did the sailors of the ship Jonah was on do to increase their chances of survival?","input": "","output": "Threw the cargo overboard (Jon 1:5)"}
+{"instruction": "Who was Jacob’s mother?","input": "","output": "Rebekah (Gen 27:11)"}
+{"instruction": "How long will the Kingdom of God last?","input": "","output": "Forever (2 Pe 1:11)"}
+{"instruction": "Which is the longest Psalm?","input": "","output": "Psalm 119 (Ps 119)"}
+{"instruction": "In which town was Jesus born?","input": "","output": "Bethlehem (Matt 2:1)"}
+{"instruction": "How were sins forgiven in the Old Testament?","input": "","output": "Animal sacrifice (Lev 4)"}
+{"instruction": "How were the Thessalonians told to pray?","input": "","output": "Without ceasing (1 Th 5:17)"}
+{"instruction": "What happened to the city of Jericho after the priests blew their trumpets?","input": "","output": "Walls fell down (Josh 6:20)"}
+{"instruction": "Which garden did Jesus go to, to pray in before his arrest?","input": "","output": "Gethsemane (Matt 26:36)"}
+{"instruction": "Who was instructed by God to leave his home and family to travel to a country he did not know?","input": "","output": "Abraham (Abram) (Gen 12:1)"}
+{"instruction": "What was Jesus teaching about when he said, “What therefore God hath joined together, let not man put asunder”?","input": "","output": "Marriage (and divorce) (Matt 19:6)"}
+{"instruction": "In the Lord’s Prayer, what follows the line, “Hallowed be thy name”?","input": "","output": "Thy kingdom come (Matt 6:10)"}
+{"instruction": "What was Jonah found doing on the ship while the storm was raging?","input": "","output": "Sleeping (Jon 1:5)"}
+{"instruction": "Five of the Ten Virgins did not take enough of what?","input": "","output": "Oil (Matt 25:3)"}
+{"instruction": "What was the name of Joseph’s master in Egypt?","input": "","output": "Potiphar (Gen 37:36)"}
+{"instruction": "Aaron turned his rod into a serpent before Pharaoh, and Pharaoh’s magicians did likewise, but what happened to their serpents?","input": "","output": "Aaron’s rod swallowed them (Exo 7:12)"}
+{"instruction": "To which country did Mary and Joseph escape when Herod killed all the babies in Bethlehem?","input": "","output": "Egypt (Matt 2:13-14)"}
+{"instruction": "What is the name of the angel who appeared to Mary?","input": "","output": "Gabriel (Luke 1:26)"}
+{"instruction": "Which land did the Lord promise to Abram?","input": "","output": "Canaan (Gen 17:8)"}
+{"instruction": "What should we “seek first”?","input": "","output": "The Kingdom of God and his righteousness (Matt 6:33)"}
+{"instruction": "Which Psalm contains the line, “He leads me beside the still waters”?","input": "","output": "Psalm 23 (Ps 23:2)"}
+{"instruction": "In the parable of the ten virgins, what were they waiting for?","input": "","output": "Bridegroom (Matt 25:1)"}
+{"instruction": "What event occurred to help release Paul and Silas from prison?","input": "","output": "Earthquake (Acts 16:26)"}
+{"instruction": "Which prisoner did the crowd call for to be released when Pilate asked them?","input": "","output": "Barabbas (Matt 27:21)"}
+{"instruction": "How does James say we should “treat the rich and the poor”?","input": "","output": "Do not judge them, but treat them impartially (Jam 2:1-4)"}
+{"instruction": "How many plagues did God send on Egypt?","input": "","output": "Ten (Exo 7:14-12:30)"}
+{"instruction": "When Jesus asked “whom say ye that I am?” what did Peter reply?","input": "","output": "Thou art the Christ, the Son of the Living God (Matt 16:16)"}
+{"instruction": "What did King Solomon ask for when God appeared to him in a dream?","input": "","output": "Wisdom (to judge between good and evil) (1 Ki 3:9)"}
+{"instruction": "Who said, “Whosoever shall not receive the kingdom of God as a little child shall not enter therein”?","input": "","output": "Jesus (Luke 18:16-17)"}
+{"instruction": "How did the angel of the Lord appear to Moses, when he was a shepherd?","input": "","output": "From within a burning bush (Exo 3:2)"}
+{"instruction": "Which of David’s descendants will reign forever?","input": "","output": "Jesus (Luke 1:32-33)"}
+{"instruction": "On what mountain did Moses receive the law from God?","input": "","output": "Mount Sinai (Lev 26:46)"}
+{"instruction": "Which of his wives did Jacob love the most?","input": "","output": "Rachel (Gen 29:30)"}
+{"instruction": "What was the name of the ark where the commandments given to Moses were to be kept?","input": "","output": "Ark of the Covenant (Deut 10:2,8)"}
+{"instruction": "What did Jesus say to those who accused the adulteress?","input": "","output": "He that is without sin, let him first cast a stone (John 8:7)"}
+{"instruction": "Where is the “best place to pray”?","input": "","output": "In your closet with the door shut (Matt 6:6)"}
+{"instruction": "What does James say happens if we “draw nigh to God”?","input": "","output": "He will draw nigh to us (Jam 4:8)"}
+{"instruction": "Where was Jesus baptized?","input": "","output": "River Jordan (Mark 1:9)"}
+{"instruction": "Which plant is “the least of all seeds, but when it is grown, it is the greatest among herbs”?","input": "","output": "Mustard (Matt 13:31-32)"}
+{"instruction": "Which city “came down from heaven prepared as a bride”?","input": "","output": "New Jerusalem (Rev 21:2)"}
+{"instruction": "At Capernaum, how did the man sick of the palsy gain access to the house in which Jesus was?","input": "","output": "Through the roof (Mark 2:4)"}
+{"instruction": "What did God breathe into Adam’s nostrils?","input": "","output": "The breath of life (Gen 2:7)"}
+{"instruction": "What did Pharaoh’s dream of good and bad ears of wheat represent?","input": "","output": "Seven years of plenty followed by seven years of famine (Gen 41:29)"}
+{"instruction": "To whom was the Revelation of Jesus Christ given?","input": "","output": "John (Rev 1:1)"}
+{"instruction": "How long was Jonah stuck inside the great fish for?","input": "","output": "Three days (Jon 1:17)"}
+{"instruction": "When Jesus walked on water, which sea was it?","input": "","output": "Sea of Galilee (John 6:1-19)"}
+{"instruction": "Who told Joseph that Jesus would save his people from their sins?","input": "","output": "Angel of the Lord (Matt 1:21)"}
+{"instruction": "Where did the man who received one talent from his master hide it?","input": "","output": "In the ground (Matt 25:25)"}
+{"instruction": "To whom did Jesus say, “Why are ye fearful, O ye of little faith”?","input": "","output": "The disciples (Matt 8:26)"}
+{"instruction": "What was the name of Hagar’s son?","input": "","output": "Ishmael (Gen 16:15)"}
+{"instruction": "Who was Jacob’s first wife?","input": "","output": "Leah (Gen 29)"}
+{"instruction": "What was Jesus wrapped in when he was born?","input": "","output": "Swaddling clothes (Luke 2:7)"}
+{"instruction": "What did the Israelites do whilst Moses was receiving the Ten Commandments from God?","input": "","output": "Made a golden calf (Deut 9:15-16)"}
+{"instruction": "What guided the Israelites through the wilderness?","input": "","output": "A pillar of cloud and of fire (Exo 13:21)"}
+{"instruction": "At what age did Jesus start his ministry?","input": "","output": "Thirty (Luke 3:23)"}
+{"instruction": "What animal spoke to Balaam?","input": "","output": "Donkey (Num 22:28)"}
+{"instruction": "What is the last book of the Old Testament?","input": "","output": "Malachi (Mal 4:6 - Matt 1:1)"}
+{"instruction": "What happened to Daniel after he gave thanks to God by his open window?","input": "","output": "He was thrown into the lions’ den (Dan 6:10,16)"}
+{"instruction": "What was Jonah’s reaction to the way the people of the city of Nineveh responded to God’s message?","input": "","output": "He was angry (Jon 4:1)"}
+{"instruction": "Zacharias and Elizabeth were told by an angel that they would have a son. What was he to be called?","input": "","output": "John (Luke 1:13)"}
+{"instruction": "How did Jesus say we should receive the Kingdom of God?","input": "","output": "As a little child (Luke 18:17)"}
+{"instruction": "What happened to anyone who was not found written in the book of life?","input": "","output": "They were cast in the lake of fire (Rev 20:15)"}
+{"instruction": "In his Sermon on the Mount, what does Jesus say about tomorrow?","input": "","output": "Take no thought for it (Matt 6:34)"}
+{"instruction": "What did Joseph instruct to be put in Benjamin’s sack?","input": "","output": "His grain money and a silver cup (Gen 44:2)"}
+{"instruction": "What did Paul do to the soothsayer which made her masters unhappy?","input": "","output": "Commanded the spirit of divination to leave her (Acts 16:18-19)"}
+{"instruction": "What was the name of the place where Jesus Christ was crucified?","input": "","output": "Golgotha / Calvary (John 19:17)"}
+{"instruction": "What object featured in Jacob’s dream at Bethel?","input": "","output": "Ladder (Gen 28:12)"}
+{"instruction": "What are the names of Joseph’s parents?","input": "","output": "Jacob and Rachel (Gen 46:19)"}
+{"instruction": "What animal did Samson kill on his way to Timnah?","input": "","output": "Lion (Jdg 14:6)"}
+{"instruction": "What was the name of Ruth’s second husband?","input": "","output": "Boaz (Ruth 4:13)"}
+{"instruction": "Complete this common phrase of thanksgiving found in the Bible: “O give thanks unto the Lord; for he is good: for his _____ endureth for ever.”","input": "","output": "Mercy (Ps 106:1)"}
+{"instruction": "Who wrote the majority of the Psalms?","input": "","output": "David (Ps 1 - 150)"}
+{"instruction": "Which prophet anointed David as king?","input": "","output": "Samuel (1 Sam 16:13)"}
+{"instruction": "A “soft answer turneth away...” what?","input": "","output": "Wrath (Pro 15:1)"}
+{"instruction": "What job did the Prodigal Son end up taking after he had spent his inheritance?","input": "","output": "Pig feeder (Luke 15:15)"}
+{"instruction": "Why shouldn’t we give anyone the title of “Father”?","input": "","output": "We have one father, who is in heaven (Matt 23:9)"}
+{"instruction": "What kind of water does Jesus discuss with the Samaritan woman at the well?","input": "","output": "Living water (John 4:10)"}
+{"instruction": "How did Jesus heal the blind man?","input": "","output": "He covered his eyes with clay and told him to wash (John 9:6-7)"}
+{"instruction": "Where did Jesus find Zacchaeus,the tax collector?","input": "","output": "Up a tree (Luke 19:4-5)"}
+{"instruction": "What is the name of Jesus’ cousin, born six months before him?","input": "","output": "John (Luke 1:36)"}
+{"instruction": "Who was the first child born?","input": "","output": "Cain (Gen 4:1)"}
+{"instruction": "Which apostle, who was described as “full of grace and power, and doing great wonders and signs among the people”, was stoned to death?","input": "","output": "Stephen (Acts 7:59)"}
+{"instruction": "Who deceived Jacob by giving Leah as a wife instead of Rachel?","input": "","output": "Laban (Gen 29:25)"}
+{"instruction": "What did Jesus send disciples to fetch on his triumphal entry into Jerusalem?","input": "","output": "Donkey and colt (Matt 21:1-2)"}
+{"instruction": "In the parable of the lost sheep, how many sheep did the shepherd count safely into the fold?","input": "","output": "Ninety-nine (Matt 18:12)"}
+{"instruction": "What does James say we should say when we make our future plans?","input": "","output": "If the Lord will, I will do this or that (Jam 4:15)"}
+{"instruction": "What type of coin did Judas accept as payment for betraying Jesus?","input": "","output": "Silver (Matt 26:15)"}
+{"instruction": "What was the writer of the letter asking of Philemon?","input": "","output": "To receive his slave back as a brother in Christ (Phm 1:17)"}
+{"instruction": "What was the covenant between God and Noah?","input": "","output": "Never to flood the earth again (Gen 9:11)"}
+{"instruction": "Which prophet said, “Behold, a virgin shall be with child, and shall bring forth a son”?","input": "","output": "Isaiah (Isa 7:14)"}
+{"instruction": "To what object does James compare the tongue?","input": "","output": "The rudder on a ship (Jam 3:4)"}
+{"instruction": "Which of David’s sons rebelled against him?","input": "","output": "Absalom (2 Sam 15)"}
+{"instruction": "What does Paul say about women’s long hair?","input": "","output": "It is a glory to her (given as a covering) (1 Cor 11:15)"}
+{"instruction": "What did Naomi tell the people in Bethlehem to call her?","input": "","output": "Mara (Ruth 1:20)"}
+{"instruction": "When Jesus told his disciples to beware of the “leaven of the Pharisees and Sadducees”, to what was he referring?","input": "","output": "The doctrines of the Pharisees and Sadducees (Matt 16:12)"}
+{"instruction": "How was Daniel protected from the lions in the den?","input": "","output": "An angel shut their mouths (Dan 6:22)"}
+{"instruction": "“Everyone that is proud in heart” is what to the Lord?","input": "","output": "An abomination (Pro 16:5)"}
+{"instruction": "What did John the Baptist say when he saw Jesus?","input": "","output": "Behold the Lamb of God! (John 1:29)"}
+{"instruction": "How did the city that Jonah was sent to react to God’s message of destruction?","input": "","output": "They repented (Jon 3:8)"}
+{"instruction": "Who asked Jesus to remember him when he came into his kingdom?","input": "","output": "The criminal on the cross (Luke 23:42)"}
+{"instruction": "Of what, specifically, was man not allowed to eat in the Garden of Eden?","input": "","output": "Tree of knowledge of good and evil (Gen 2:17)"}
+{"instruction": "What was Solomon famous for building?","input": "","output": "Temple (1 Ki 7:51)"}
+{"instruction": "Jesus asked: “Can the blind lead the....?”","input": "","output": "Blind (Luke 6:39)"}
+{"instruction": "Who told Peter to “watch and pray that he entered not into temptation”?","input": "","output": "Jesus (Matt 26:40-41)"}
+{"instruction": "What is Paul’s command to husbands in his letter to the Colossians?","input": "","output": "Love your wives, and do not be bitter towards them (Col 3:19)"}
+{"instruction": "Which river was Naaman told to wash in to rid himself of leprosy?","input": "","output": "Jordan (2 Ki 5:10)"}
+{"instruction": "What miracle had Jesus performed when he said, “It is I; be not afraid”?","input": "","output": "Walking on water (John 6:19-20)"}
+{"instruction": "Why did Solomon turn away from God when he was old?","input": "","output": "His foreign wives turned his heart after other gods (1 Ki 11:4)"}
+{"instruction": "What is the “chorus” in Psalm 136 which is repeated in every verse?","input": "","output": "For his mercy endureth forever (Ps 136)"}
+{"instruction": "In what city was Jesus brought up as a child?","input": "","output": "Nazareth (Matt 2:23)"}
+{"instruction": "Which female judge described herself as “a mother in Israel”?","input": "","output": "Deborah (Jdg 5:7)"}
+{"instruction": "After the angels had announced the birth of Christ and left the shepherds, what did the shepherds do?","input": "","output": "Went quickly to Bethlehem (Luke 2:15-16)"}
+{"instruction": "According to Peter, what “covers a multitude of sins”?","input": "","output": "Love (1 Pe 4:8)"}
+{"instruction": "In prison, for whom did Joseph interpret dreams?","input": "","output": "The butler and the baker (Gen 40:5)"}
+{"instruction": "To what preservative does the Lord compare his disciples?","input": "","output": "Salt (Matt 5:13)"}
+{"instruction": "What was Jesus’ first miracle?","input": "","output": "Changing water into wine (John 2:11)"}
+{"instruction": "Who spotted Moses in the Nile placed in an ark of bulrushes?","input": "","output": "Pharaoh’s daughter (Exo 2:5)"}
+{"instruction": "Who was Bathsheba’s first husband?","input": "","output": "Uriah (2 Sam 11:3)"}
+{"instruction": "Why were Daniel’s three friends thrown into the fiery furnace?","input": "","output": "They wouldn’t bow down to Nebuchadnezzar’s golden image (Dan 3:11-12)"}
+{"instruction": "Out of the ten lepers who Jesus healed, how many came back to say thank you?","input": "","output": "One (Luke 17:15)"}
+{"instruction": "What did Jesus say the sellers had turned his house of prayer into?","input": "","output": "A den of thieves (Luke 19:46)"}
+{"instruction": "In the New Jerusalem where are the names of the twelve tribes written?","input": "","output": "On the twelve gates (Rev 21:12)"}
+{"instruction": "How often was the year of the Lord’s release?","input": "","output": "Every seven years (Deut 15:1-2)"}
+{"instruction": "Which tribe of Israel looked after the religious aspects of life?","input": "","output": "Levi (Num 18:20-24)"}
+{"instruction": "Where was Paul when he wrote the letter to Philemon?","input": "","output": "In prison (Phm 1:23)"}
+{"instruction": "Who preached, “Repent ye: for the kingdom of heaven is at hand”?","input": "","output": "John the Baptist (Matt 3:1-2)"}
+{"instruction": "What was the name of James’ and John’s father?","input": "","output": "Zebedee (Mark 10:35)"}
+{"instruction": "What bird did God provide to the Israelites for meat in the wilderness?","input": "","output": "Quail (Exo 16:13)"}
+{"instruction": "Who closed the door of Noah’s ark?","input": "","output": "God (Gen 7:16)"}
+{"instruction": "“Hate stirs up strife”, but what does love cover?","input": "","output": "All sins (Pro 10:12)"}
+{"instruction": "Who wrote the line: “The Lord is my Shepherd, I shall not want”?","input": "","output": "David (Ps 23:1)"}
+{"instruction": "Which prisoners experienced an earthquake after their prayer?","input": "","output": "Paul and Silas (Acts 16:26)"}
+{"instruction": "What was the name of Joseph’s youngest brother?","input": "","output": "Benjamin (Gen 44:12)"}
+{"instruction": "Who did Jesus pray for that his faith failed not?","input": "","output": "(Simon) Peter (Luke 22:32)"}
+{"instruction": "What was the new name given to Daniel while in captivity?","input": "","output": "Belteshazzar (Dan 1:7)"}
+{"instruction": "Which wise man wrote the majority of Proverbs?","input": "","output": "Solomon (Pro 1:1)"}
+{"instruction": "Which king asked for the foreskins of 100 Philistines?","input": "","output": "Saul (1 Sam 18:25)"}
+{"instruction": "Who rolled away the tomb stone?","input": "","output": "An Angel (Matt 28:2)"}
+{"instruction": "What did Samson find in the carcass of the animal he had killed at a later time?","input": "","output": "Bees and honey (Jdg 14:8)"}
+{"instruction": "What is “friendship with the world”, according to James?","input": "","output": "Enmity with God (Jam 4:4)"}
+{"instruction": "Who said “glory to God in the highest, and on earth peace, goodwill to men”?","input": "","output": "Angels (Luke 2:13-14)"}
+{"instruction": "In which book of the Bible does the story of Noah’s ark appear?","input": "","output": "Genesis (Gen 6 - 8)"}
+{"instruction": "When Samuel was called by the Lord as a child, who did he think was calling?","input": "","output": "Eli, the priest (1 Sam 3:2-6)"}
+{"instruction": "To whom did Jesus say “Truly, truly, I say to you, unless one is born again he cannot see the kingdom of God”?","input": "","output": "Nicodemus (John 3:3)"}
+{"instruction": "Who does Paul say is head of the woman?","input": "","output": "Man (1 Cor 11:3)"}
+{"instruction": "Who sang a song celebrating the downfall of Sisera?","input": "","output": "Deborah & Barak (Jdg 5:1)"}
+{"instruction": "What happens to “treasure laid up on earth”?","input": "","output": "Becomes corrupted and thieves steal it (Matt 6:19)"}
+{"instruction": "Whose mother was instructed to drink no wine or strong drink during her pregnancy?","input": "","output": "Samson’s (Jdg 13:7)"}
+{"instruction": "Who was the successor to Moses?","input": "","output": "Joshua (Josh 1:1-6)"}
+{"instruction": "What should you not “throw before swine”?","input": "","output": "Pearls (Matt 7:6)"}
+{"instruction": "What was the name of the woman who hid the spies at Jericho?","input": "","output": "Rahab (Josh 2:3-4)"}
+{"instruction": "In the letter to the Corinthians, who does Paul say is a “new creature”?","input": "","output": "Any man in Christ (2 Cor 5:17)"}
+{"instruction": "Which prophet is recorded as having an earnest prayer for no rain answered?","input": "","output": "Elijah (Jam 5:17)"}
+{"instruction": "According to Thessalonians, what will happen to the believers alive at the return of Christ?","input": "","output": "They will be caught up together in the clouds (1 Th 4:17)"}
+{"instruction": "How did the Philistines discover the answer to Samson’s riddle?","input": "","output": "They threatened Samson’s bride, who told them (Jdg 14:15)"}
+{"instruction": "When he was approached by Jesus, who said, “What have you to do with me, Jesus, Son of the Most High God? I adjure you by God, do not torment me.”?","input": "","output": "Legion (Mark 5:7)"}
+{"instruction": "What was the reason that Jacob and his family began a new life in Egypt?","input": "","output": "Famine in Canaan (Gen 47:4)"}
+{"instruction": "How was Isaac’s wife chosen?","input": "","output": "His father sent a servant back to Mesopotamia to choose a wife from his own family (Gen 24)"}
+{"instruction": "Whose father was so pleased to see him that he gave him the best robe and killed the fatted calf?","input": "","output": "Prodigal son (Luke 15:23-24)"}
+{"instruction": "What was the name of Solomon’s son who succeeded him as king?","input": "","output": "Rehoboam (1 Ki 11:43)"}
+{"instruction": "How did the people listening to the Sermon on the Mount view Jesus’ teachings?","input": "","output": "He taught as one with authority (Matt 7:29)"}
+{"instruction": "What does faith require to make it a living faith?","input": "","output": "Works (Jam 2:17)"}
+{"instruction": "What did Jesus say you should do if someone asks you to go with them for a mile?","input": "","output": "Go with them for two miles (Matt 5:41)"}
+{"instruction": "In the parable of the grain of mustard seed, when it becomes a tree birds come and do what?","input": "","output": "Build nests (Matt 13:32)"}
+{"instruction": "The field that Judas Iscariot purchased with his betrayal money was called Aceldama, but as what was it also known?","input": "","output": "Field of Blood (Acts 1:19)"}
+{"instruction": "Who did Jesus raise from the dead by a prayer of thanks to God?","input": "","output": "Lazarus (John 11:41)"}
+{"instruction": "The king’s wrath is as “the roaring” of what?","input": "","output": "A lion (Pro 19:12)"}
+{"instruction": "What was the name of Ruth’s son?","input": "","output": "Obed (Ruth 4:17)"}
+{"instruction": "According to James, what happens if you break one commandment of the law?","input": "","output": "You are guilty of breaking the whole law (Jam 2:10)"}
+{"instruction": "“Go to the ____, thou sluggard; consider her ways, and be wise.” What animal should we take lessons from?","input": "","output": "Ant (Pro 6:6)"}
+{"instruction": "How did the wise men know that the King of the Jews had been born?","input": "","output": "They saw a star in the East (Matt 2:2)"}
+{"instruction": "What test did Elijah set the prophets of Baal, which failed, proving their god to be false?","input": "","output": "Lighting a fire under the sacrifice on the altar (1 Ki 18:24)"}
+{"instruction": "Who was the tax collector that climbed up a tree so he could see Jesus?","input": "","output": "Zacchaeus (Luke 19:5)"}
+{"instruction": "What is Jesus’ final commission to his disciples?","input": "","output": "Teach all nations, baptizing them (Matt 28:19)"}
+{"instruction": "The Lord said that Jacob and Esau were two what in the womb?","input": "","output": "Nations (Gen 25:23)"}
+{"instruction": "When a man said to Jesus, “who is my neighbor?” what parable did Jesus reply with?","input": "","output": "The good Samaritan (Luke 10:29)"}
+{"instruction": "What happens to the man who “puts his hand to the plough and looks back”?","input": "","output": "He is not fit for the Kingdom of God (Luke 9:62)"}
+{"instruction": "What did Samson do to the Philistines’ crops after discovering his bride had been given to someone else?","input": "","output": "Burned them (Jdg 15:5)"}
+{"instruction": "Who was Jesus talking to when he taught the Lord’s Prayer?","input": "","output": "Disciples (Matt 5:1)"}
+{"instruction": "Ananias and Sapphira sold some property and secretly kept part of the proceeds for themselves. What happened to them?","input": "","output": "They died (Acts 5:1-11)"}
+{"instruction": "To the beauty of which plant did Jesus compare to King Solomon?","input": "","output": "Lilies (of the field) (Luke 12:27)"}
+{"instruction": "What was on top of the Ark of the Covenant?","input": "","output": "The mercy seat and two cherubim (Exo 25:22)"}
+{"instruction": "Who came to see Jesus by night?","input": "","output": "Nicodemus (John 19:39)"}
+{"instruction": "For how long was the dragon bound in the bottomless pit?","input": "","output": "1,000 years (Rev 20:1-3)"}
+{"instruction": "Complete the Beatitude: “Blessed are the pure in heart...”","input": "","output": "...for they shall see God. (Matt 5:8)"}
+{"instruction": "For how many pieces of silver did Judas betray Christ?","input": "","output": "Thirty (Matt 26:15)"}
+{"instruction": "Who did Abram marry?","input": "","output": "Sarai (Gen 11:29)"}
+{"instruction": "What did Jesus say he would leave with the disciples?","input": "","output": "Peace (John 14:27)"}
+{"instruction": "What did Paul ask Philemon to have ready for him?","input": "","output": "A room (Phm 1:22)"}
+{"instruction": "In Egypt, what did Joseph accuse his brothers of at their first meeting?","input": "","output": "Being spies (Gen 42:9)"}
+{"instruction": "Where did Jesus first see Nathanael?","input": "","output": "Under the fig tree (John 1:48)"}
+{"instruction": "Which disciple was a tax collector?","input": "","output": "Matthew (Levi) (Luke 5:27)"}
+{"instruction": "Which city was the letter to Philemon written from?","input": "","output": "Rome (while under house arrest) (Phm 1:23)"}
+{"instruction": "What horrific act did the women do to their children during the Babylonian siege of Jerusalem?","input": "","output": "Boiled and ate them (Lam 4:10)"}
+{"instruction": "What does the name Abraham mean?","input": "","output": "Father of a multitude (Gen 17:5)"}
+{"instruction": "When the Pharisees asked Jesus whether it was lawful to pay taxes to Caesar, what object did he use to answer their question?","input": "","output": "A penny (denarius) (Matt 22:19)"}
+{"instruction": "When Philip and the Ethiopian eunuch arrive at some water, what does the eunuch say?","input": "","output": "What is there to stop me getting baptized? (Acts 8:36)"}
+{"instruction": "Who said to Mary, “Blessed are you among women, and blessed is the fruit of your womb!”?","input": "","output": "Elisabeth (Luke 1:41-42)"}
+{"instruction": "Seven fat and seven thin of what type of animal appeared to Pharaoh in a dream?","input": "","output": "Cattle (or Cows) (Gen 41:1-4)"}
+{"instruction": "How old was Sarah when her son Isaac was born?","input": "","output": "Ninety (Gen 17:17; 21:5)"}
+{"instruction": "About what age was Jesus when he was baptized?","input": "","output": "Thirty (Luke 3:23)"}
+{"instruction": "Which book comes after the book of Job?","input": "","output": "Psalms (Job 42:17 - Ps 1:1)"}
+{"instruction": "How many horsemen are there in Revelation chapter 6?","input": "","output": "Four (Rev 6:2-8)"}
+{"instruction": "What was the first temptation of Christ?","input": "","output": "To turn a stone into bread (Matt 4:3)"}
+{"instruction": "After the first king of Israel failed God, what was the name of the second man who was anointed king?","input": "","output": "David (1 Sam 16:1,13)"}
+{"instruction": "What type of tree did Zacchaeus climb to see Jesus?","input": "","output": "Sycamore (Luke 19:4)"}
+{"instruction": "When Jesus forgave the sins of the sick man let down through the roof to him, to what did the Pharisees object?","input": "","output": "They thought only God could forgive sins (Mark 2:7)"}
+{"instruction": "What was the name of Abraham’s nephew?","input": "","output": "Lot (Gen 12:5)"}
+{"instruction": "Israel split into two kingdoms after the reign of King Solomon, with Israel in the north, but what was the name of the southern kingdom?","input": "","output": "Judah (1 Ki 11:31-36; 12:20-21)"}
+{"instruction": "What did James’ and John’s mother ask of Jesus?","input": "","output": "For her sons to sit on Jesus’ right and left hands in the kingdom (Matt 20:21)"}
+{"instruction": "What did the dove bring back to Noah?","input": "","output": "Olive leaf (Gen 8:11)"}
+{"instruction": "How many books are there in the New Testament?","input": "","output": "Twenty-seven (Matt 1:1 - Rev 22:21)"}
+{"instruction": "Who was appointed to replace Judas Iscariot as a disciple?","input": "","output": "Matthias (Acts 1:26)"}
+{"instruction": "What did Abraham’s son carry for his sacrifice?","input": "","output": "The wood (Gen 22:6)"}
+{"instruction": "In which book of the Bible would we find Haman, the son of Hammedatha?","input": "","output": "Esther (Est 3:1)"}
+{"instruction": "What did Elisha do for the Shunammite’s son?","input": "","output": "Raised him back to life (2 Ki 4:32-37)"}
+{"instruction": "Which book of the Bible precedes Philemon?","input": "","output": "Titus (Tit 3:15 - Phm 1:1)"}
+{"instruction": "What were the names of Elimelech’s two sons?","input": "","output": "Mahlon & Chilion (Ruth 1:2)"}
+{"instruction": "Until when did Jesus remain in Egypt with his parents, when he was a baby?","input": "","output": "Until the death of Herod the Great (Matt 2:15)"}
+{"instruction": "In the parable of the sower, what does the seed represent?","input": "","output": "Word of God (Luke 8:11)"}
+{"instruction": "What was the first plague the Lord sent upon Egypt?","input": "","output": "Water turned into blood (Exo 7:21)"}
+{"instruction": "What did the disciples do when people brought their young children to Jesus?","input": "","output": "They rebuked them (Matt 19:13)"}
+{"instruction": "Who does Jesus say are the two most important people to love?","input": "","output": "God and your neighbor (Luke 10:27)"}
+{"instruction": "What happened to Jesus on the 8th day of his life?","input": "","output": "He was circumcised (Luke 2:21)"}
+{"instruction": "Who looked after the coats of the men who stoned Stephen?","input": "","output": "Saul (Acts 7:58)"}
+{"instruction": "What profession did Zebedee, father of James and John, have?","input": "","output": "Fisherman (Matt 4:21)"}
+{"instruction": "Which two sisters married Jacob?","input": "","output": "Rachel and Leah (Gen 29:28)"}
+{"instruction": "Into which land did God send Abraham to sacrifice his special son, Isaac?","input": "","output": "Moriah (Gen 22:2)"}
+{"instruction": "In Revelation, what was the wife of the Lamb arrayed in?","input": "","output": "Fine white linen (Rev 19:8)"}
+{"instruction": "Which Israelite woman had two Moabite daughters-in-law?","input": "","output": "Naomi (Ruth 1:4)"}
+{"instruction": "When Peter was asked if Jesus paid temple taxes, what animal concealed a coin with which to pay the taxes?","input": "","output": "Fish (Matt 17:27)"}
+{"instruction": "In Nebuchadnezzar’s dream what did the different metals of the statue represent?","input": "","output": "Kingdoms of the world (Dan 2:37-44)"}
+{"instruction": "What did God initially give man to eat?","input": "","output": "Plants and Fruit (Gen 2:9,16)"}
+{"instruction": "Which city did David pray for the peace of?","input": "","output": "Jerusalem (Ps 122:6)"}
+{"instruction": "What did the crew of the ship Jonah was on do once the storm had ceased?","input": "","output": "They made sacrifices to God (Jon 1:16)"}
+{"instruction": "How many people were saved in the ark?","input": "","output": "Eight (1 Pe 3:20)"}
+{"instruction": "What disease did the Lord send upon Miriam?","input": "","output": "Leprosy (Num 12:10)"}
+{"instruction": "The name of the Lord is like what place of safety?","input": "","output": "A strong tower (Pro 18:10)"}
+{"instruction": "With what was Jesus’ side pierced?","input": "","output": "Spear (John 19:34)"}
+{"instruction": "Who wrote the book of Acts?","input": "","output": "Luke (Acts 1:1 (cf Luke 1:3))"}
+{"instruction": "What did Jesus say when the Pharisees asked why he ate with publicans and sinners?","input": "","output": "They that be whole need not a physician,but they that are sick. (Matt 9:11-12)"}
+{"instruction": "How did Moses command the Red Sea to divide so the Israelites could cross over?","input": "","output": "He lifted up his rod and stretched his hand over the sea (Exo 14:16,21)"}
+{"instruction": "Where was Jonah when he prayed to God with the voice of thanksgiving?","input": "","output": "In the fish’s belly (Jon 2:9)"}
+{"instruction": "What was Noah’s ark made out of?","input": "","output": "Gopher (cypress) wood (Gen 6:14)"}
+{"instruction": "Who brought Elijah bread and meat to eat during the drought?","input": "","output": "Ravens (1 Ki 17:4)"}
+{"instruction": "Whose mother-in-law did Jesus heal?","input": "","output": "(Simon) Peter’s (Matt 8:14-15)"}
+{"instruction": "Which bird does Jesus say we have more value than?","input": "","output": "Sparrow (Matt 10:31)"}
+{"instruction": "In which city was David’s throne over Israel?","input": "","output": "Jerusalem (2 Sam 5:5)"}
+{"instruction": "How old was Moses when he died?","input": "","output": "120 (Deut 34:7)"}
+{"instruction": "What event did Peter, James and John witness in a mountain with Jesus?","input": "","output": "Transfiguration (Matt 17:1)"}
+{"instruction": "Which apostle was a Pharisee?","input": "","output": "Paul (Acts 23:6)"}
+{"instruction": "The desolation of which city is described in Revelation chapter 18?","input": "","output": "Babylon (Rev 18:2)"}
+{"instruction": "Which king in the Old Testament built the first temple in Jerusalem?","input": "","output": "Solomon (2 Chr 3:1)"}
+{"instruction": "Why did Jesus say we should not “judge people”?","input": "","output": "So that we are not judged (Matt 7:1)"}
+{"instruction": "What happened to the prison keeper and his family after finding Paul and Silas released from their chains?","input": "","output": "They believed and were baptized (Acts 16:33)"}
+{"instruction": "How is man “tempted”?","input": "","output": "He is enticed by his own lust (Jam 1:14)"}
+{"instruction": "What natural disaster happened when Abram and Sarai arrived in the land of Canaan?","input": "","output": "A famine (Gen 12:10)"}
+{"instruction": "Which disciple did Paul commend for having “the same faith his mother had”?","input": "","output": "Timothy (2 Tim 1:5)"}
+{"instruction": "What did the shepherds do after they had visited Jesus?","input": "","output": "Spread the news about Jesus’ birth (Luke 2:17)"}
+{"instruction": "Who went back to Jerusalem after the captivity to encourage the people to build the walls of the city again?","input": "","output": "Nehemiah (Neh 2:17)"}
+{"instruction": "Who was the first of the apostles to perform a miracle in the name of Jesus?","input": "","output": "Peter (Acts 3:6)"}
+{"instruction": "How did Korah and his family die after seeking priesthood duties beyond those they already had?","input": "","output": "They were swallowed up by the earth (Num 16:1-35)"}
+{"instruction": "What was the name of Isaac’s wife?","input": "","output": "Rebekah (Gen 24:67)"}
+{"instruction": "How does the Bible describe the location of the Garden of Eden?","input": "","output": "In the east (Gen 2:8)"}
+{"instruction": "In the vision of Jesus in Revelation, what came out of Jesus’ mouth?","input": "","output": "A sharp sword (Rev 19:15)"}
+{"instruction": "What was Paul’s home town?","input": "","output": "Tarsus (Acts 21:39)"}
+{"instruction": "Which judge was betrayed to the Philistines by a woman?","input": "","output": "Samson (Jdg 16:5-6)"}
+{"instruction": "What happened to forty-two of the children who made fun of Elisha’s baldness?","input": "","output": "Two bears came out of the woods and killed them (2 Ki 2:24)"}
+{"instruction": "What came out of the fire Paul made on Malta and attacked him?","input": "","output": "Viper (Acts 28:3)"}
+{"instruction": "Who refused to worship Nebuchadnezzar’s golden image?","input": "","output": "Shadrach, Meshach and Abednego (Dan 3:12)"}
+{"instruction": "In the Sermon on the Mount, what did Jesus say would happen to the meek?","input": "","output": "They will inherit the earth (Matt 5:5)"}
+{"instruction": "Where did Moses first meet his future wife?","input": "","output": "By a well in the land of Midian (Exo 2:16-21)"}
+{"instruction": "Out of the ten lepers Jesus healed, what nationality was the one who returned to thank him?","input": "","output": "Samaritan (Luke 17:16)"}
+{"instruction": "Who did the men of Athens ignorantly worship?","input": "","output": "The Unknown God (Acts 17:22-23)"}
+{"instruction": "What did Saul see on the road approaching Damascus?","input": "","output": "A shining light from heaven (Acts 9:3)"}
+{"instruction": "How long did Jonah say it would be before Nineveh was to be overthrown?","input": "","output": "Forty days (Jon 3:4)"}
+{"instruction": "What was the name of Samson’s father?","input": "","output": "Manoah (Jdg 13:24)"}
+{"instruction": "Who did Amnon love, and then hate even more than he had loved her?","input": "","output": "Tamar (2 Sam 13:15)"}
+{"instruction": "Where were the Jews taken captive to when Jerusalem was destroyed?","input": "","output": "Babylon (Jer 29:4)"}
+{"instruction": "When was the festival of Passover established?","input": "","output": "When the plague of the death of the firstborn was brought upon the land of Egypt (Exo 12:27)"}
+{"instruction": "What sin did Noah commit after he began to be a “man of the soil”?","input": "","output": "Drunkenness (Gen 9:20-21)"}
+{"instruction": "Why were the Israelites afraid to enter the Promised Land?","input": "","output": "The inhabitants were great and tall (Num 13:33-14:4)"}
+{"instruction": "What did the silversmith do with Micah’s silver?","input": "","output": "Made it into an idol (Jdg 17:4)"}
+{"instruction": "What was Paul’s profession?","input": "","output": "Tentmaker (Acts 18:3)"}
+{"instruction": "What was the name of Ahasuerus’ new queen?","input": "","output": "Esther (Est 2:17)"}
+{"instruction": "According to the words of Jesus in the Sermon on the Mount, “a city that is on a hill cannot be...” what?","input": "","output": "Hidden (Matt 5:14)"}
+{"instruction": "What was the fate of Shechem, the prince who fell in love with Dinah, daughter of Jacob?","input": "","output": "He, his father, and the men of his city were slain by Dinah’s brothers (Gen 34)"}
+{"instruction": "What book of the Bible follows Philemon?","input": "","output": "Hebrews (Phm 1:25 - Heb 1:1)"}
+{"instruction": "During Jacob’s struggle with the angel, the hollow of which part of Jacob’s body was touched and put out of joint?","input": "","output": "Hollow of thigh / Hip (Gen 32:25)"}
+{"instruction": "Which Christian doctrine did the Sadducees reject?","input": "","output": "Resurrection (Matt 22:23)"}
+{"instruction": "For how many years had the woman with the issue of blood suffered before she was healed by Jesus?","input": "","output": "Twelve years (Matt 9:20)"}
+{"instruction": "What was the affliction of Bartimaeus?","input": "","output": "Blind (Mark 10:46)"}
+{"instruction": "What was the color of the robe placed on Jesus by the soldiers?","input": "","output": "Scarlet / Purple (Matt 27:28; John 19:2)"}
+{"instruction": "How did Paul say we should let our requests be made known to God?","input": "","output": "By prayer and supplication with thanksgiving (Php 4:6)"}
+{"instruction": "In the Sermon on the Mount, what does Jesus tell us the earth is?","input": "","output": "God’s footstool (Matt 5:35)"}
+{"instruction": "In which book of the Bible do we find “Nebuchadnezzar’s image”?","input": "","output": "Daniel (Dan 2:31-36)"}
+{"instruction": "Where was Abraham born?","input": "","output": "Ur (Gen 11:31)"}
+{"instruction": "Who was given a son following her prayer to God in the temple, during which the priest accused her of being drunk?","input": "","output": "Hannah (1 Sam 1:13)"}
+{"instruction": "Who asked for an understanding heart to judge God’s people?","input": "","output": "Solomon (1 Ki 3:9)"}
+{"instruction": "What is “sin”?","input": "","output": "The transgression of the law (1 Jn 3:4)"}
+{"instruction": "For how long did David reign?","input": "","output": "Forty years (2 Sam 5:4)"}
+{"instruction": "How many Psalms are there in the Bible?","input": "","output": "150 (Ps 1:1-150:6)"}
+{"instruction": "Jesus used a little child to show the futility of an argument among the disciples. What were they arguing about?","input": "","output": "Who is the greatest in heaven (Matt 18:1-4)"}
+{"instruction": "Whose twelve year old daughter did Jesus raise from the dead?","input": "","output": "Jairus’ (Luke 8:41)"}
+{"instruction": "What was the name of Ruth’s great-grandson?","input": "","output": "David (Ruth 4:22)"}
+{"instruction": "On what island was John when he was given the vision of Revelation?","input": "","output": "Patmos (Rev 1:9)"}
+{"instruction": "What happened to King Nebuchadnezzar before being restored as king?","input": "","output": "He went mad and lived as a beast (Dan 4:33-36)"}
+{"instruction": "Where did Jonah try to run to instead of going to Nineveh as God had commanded?","input": "","output": "Tarshish (Jon 1:3)"}
+{"instruction": "Who did Paul send to Rome, requesting that she was given a welcome worthy of the saints?","input": "","output": "Phoebe (Rom 16:1-2)"}
+{"instruction": "Whose mother took him a little coat once a year?","input": "","output": "Samuel (1 Sam 2:19)"}
+{"instruction": "Which judge killed Eglon, King of Moab?","input": "","output": "Ehud (Jdg 3:15-25)"}
+{"instruction": "In a parable told by Jesus, what did the rich man do with the surplus of crops that he grew?","input": "","output": "Built larger barns to store them (Luke 12:18)"}
+{"instruction": "In the parable of the leaven, what is leaven more commonly known as?","input": "","output": "Yeast (Matt 13:33)"}
+{"instruction": "What bird could poor people use for sacrifices if they could not afford lambs?","input": "","output": "Turtledoves or Pigeons (Lev 5:7)"}
+{"instruction": "Which book of prophecy was the Ethiopian eunuch reading from?","input": "","output": "Isaiah (Acts 8:30)"}
+{"instruction": "Who said, “When I was a child, I spake as a child, I understood as a child, I thought as a child: but when I became a man, I put away childish things”?","input": "","output": "Paul (1 Cor 13:11)"}
+{"instruction": "What is the first line of Psalm 1?","input": "","output": "Blessed is the man who walks not in the counsel of the ungodly (Ps 1:1)"}
+{"instruction": "What was Peter’s mother- in-law sick with?","input": "","output": "A fever (Matt 8:14)"}
+{"instruction": "Who instructed her daughter to ask for the head of John the Baptist?","input": "","output": "Herodias (Matt 14:8)"}
+{"instruction": "Who decreed that a census of the entire Roman world should be taken at the time of Jesus’ birth?","input": "","output": "Augustus Caesar (Luke 2:1)"}
+{"instruction": "Which woman, who was “full of good works and acts of charity”, was raised from the dead by Peter at Lydda?","input": "","output": "Tabitha (Dorcas) (Acts 9:40)"}
+{"instruction": "What did Daniel do for Nebuchadnezzar that no-one else was able to do?","input": "","output": "Interpret his dreams (Dan 2)"}
+{"instruction": "What was on the head of the woman “clothed with the sun”?","input": "","output": "A crown of twelve stars (Rev 12:1)"}
+{"instruction": "How did Uriah, Bathsheba’s husband, die?","input": "","output": "Cut down after David instructed his men to abandon Uriah in battle (2 Sam 11:15)"}
+{"instruction": "When Paul was shipwrecked on Malta how many people on the ship drowned?","input": "","output": "None (Acts 27:22,44)"}
+{"instruction": "How did Jesus say true worshippers should worship God when he was talking to the woman at the well?","input": "","output": "In spirit and truth (John 4:23-24)"}
+{"instruction": "Which profession does Jesus compare himself to spiritually?","input": "","output": "Shepherd (John 10:14)"}
+{"instruction": "Under the Mosaic Law, what was the punishment for someone who hit their father?","input": "","output": "Death (Exo 21:15)"}
+{"instruction": "What presents did Pharaoh give to Joseph when he was given charge of Egypt?","input": "","output": "His ring, fine linen and a gold chain (Gen 41:42)"}
+{"instruction": "What was taken off and handed over to signify the agreement between Boaz and the kinsman?","input": "","output": "Sandal (Ruth 4:8)"}
+{"instruction": "Peacocks were imported by which king of Israel?","input": "","output": "Solomon (1 Ki 10:22)"}
+{"instruction": "Why did Boaz allow Ruth to glean in his field?","input": "","output": "She had looked after Naomi (Ruth 2:11)"}
+{"instruction": "What punishment was Zacharias given for not believing the angel?","input": "","output": "He was made dumb (Luke 1:20)"}
+{"instruction": "Which direction did the scorching wind upon Jonah come from?","input": "","output": "East (Jon 4:8)"}
+{"instruction": "Why did the kinsman not want to marry Ruth?","input": "","output": "Didn’t want to spoil his inheritance (Ruth 4:6)"}
+{"instruction": "How many times did Samson lie about his source of strength to Delilah?","input": "","output": "Three (Jdg 16:15)"}
+{"instruction": "Which book of the Bible begins with “The book of the generation of Jesus Christ, the son of David, the son of Abraham.”?","input": "","output": "Matthew (Matt 1:1)"}
+{"instruction": "Jephthah made a vow to God, with what effect on his daughter?","input": "","output": "Her life was sacrificed to God (Jdg 11:30-40)"}
+{"instruction": "Who did Mary suppose Jesus to be at first after the resurrection?","input": "","output": "Gardener (John 20:15)"}
+{"instruction": "How did Jesus reveal the one who would betray him?","input": "","output": "Dipped a piece of bread and passed it to him (John 13:26)"}
+{"instruction": "Which two Old Testament characters appeared with Jesus at the transfiguration?","input": "","output": "Elijah and Moses (Matt 17:3)"}
+{"instruction": "Who prayed for the fiery serpents to be taken away from Israel?","input": "","output": "Moses (Num 21:7)"}
+{"instruction": "Which married couple did Paul become friends with at Corinth?","input": "","output": "Aquila and Priscilla (Acts 18:2)"}
+{"instruction": "Who persuaded Delilah to betray Samson?","input": "","output": "Lords of the Philistines (Jdg 16:5)"}
+{"instruction": "When Jesus died, for how long was there darkness over the land?","input": "","output": "Three hours (Luke 23:44)"}
+{"instruction": "What service did Nehemiah perform for King Artaxerxes?","input": "","output": "Cupbearer (Neh 1:11)"}
+{"instruction": "What is the next line of the Lord’s Prayer after “Give us this day our daily bread...”?","input": "","output": "And forgive us our debts/sins (Matt 6:11-12; Luke 11:4)"}
+{"instruction": "What did Abigail prevent David from doing to Nabal?","input": "","output": "Murdering him (1 Sam 25:34-35)"}
+{"instruction": "Who became nurse to Ruth’s son?","input": "","output": "Naomi (Ruth 4:16)"}
+{"instruction": "According to the law, why could the Israelites not eat blood?","input": "","output": "God said, “the blood is the life.” (Deut 12:23)"}
+{"instruction": "What relation was Jacob to Abraham?","input": "","output": "Grandson (Matt 1:2)"}
+{"instruction": "What killed the plant that God had provided Jonah for shade?","input": "","output": "A worm (Jon 4:7)"}
+{"instruction": "What did the prophet Micah say about Jesus’ birth?","input": "","output": "He would be born in Bethlehem (Mic 5:2)"}
+{"instruction": "What did John do with the little book he took from the angel?","input": "","output": "He ate it (Rev 10:10)"}
+{"instruction": "Who went up yearly to worship God in Shiloh, and one year prayed to God for a baby?","input": "","output": "Hannah (1 Sam 1:3-11)"}
+{"instruction": "In which tribe was the city of Bethlehem?","input": "","output": "Judah (Mic 5:2)"}
+{"instruction": "What was Peter doing when he denied Jesus for the second time?","input": "","output": "Warming himself by a fire (John 18:25)"}
+{"instruction": "What did Jonah do while he waited to see Nineveh’s fate?","input": "","output": "He sat down on the East of the city and made a shelter (Jon 4:5)"}
+{"instruction": "Who carried the cross for Christ?","input": "","output": "Simon of Cyrene (Matt 27:32)"}
+{"instruction": "On which mountain range did Noah’s ark come to rest?","input": "","output": "Ararat (Gen 8:4)"}
+{"instruction": "Which two tribes of Israel were not named after sons of Jacob?","input": "","output": "Ephraim and Manasseh (Josh 14:4)"}
+{"instruction": "What did the Queen of Sheba give to Solomon?","input": "","output": "(120 talents of) gold, spices, and precious stones (1 Ki 10:10)"}
+{"instruction": "What should Philemon do if his slave owed him anything?","input": "","output": "Charge it to Paul (Phm 1:18)"}
+{"instruction": "How many books are there in the Old Testament?","input": "","output": "Thirty-nine (Gen 1:1 - Mal 4:6)"}
+{"instruction": "According to Old Testament law, what should you not cook a young goat in?","input": "","output": "Its mother’s milk (Ex 23:19)"}
+{"instruction": "What did Joseph want to do when he discovered Mary was pregnant?","input": "","output": "(Quietly) divorce her (Matt 1:19)"}
+{"instruction": "What did Boaz say Naomi was selling?","input": "","output": "A parcel of land (Ruth 4:3)"}
+{"instruction": "Abram was rich in gold, silver and what else?","input": "","output": "Cattle (Gen 13:2)"}
+{"instruction": "How much of Elijah’s spirit did Elisha receive?","input": "","output": "Double (portion) (2 Ki 2:9)"}
+{"instruction": "What was unusual about the 700 Benjamite soldiers who could sling a stone and hit their target every time?","input": "","output": "They were all left-handed (Jdg 20:16)"}
+{"instruction": "What relation was Annas to Caiaphas?","input": "","output": "Father-in-law (John 18:13)"}
+{"instruction": "According to James, what is “pure and undefiled religion”?","input": "","output": "To visit the fatherless and widows, and to keep yourself unspotted from the world (Jam 1:27)"}
+{"instruction": "When in prison at what time did Paul and Silas pray and sing to God?","input": "","output": "Midnight (Acts 16:25)"}
+{"instruction": "What did Daniel and his three friends eat instead of the king’s meat and drink?","input": "","output": "Pulses and water (Dan 1:12)"}
+{"instruction": "What did Jesus say is the “greatest commandment in the law”?","input": "","output": "To love God with all your heart, soul and mind (Mark 12:29-30)"}
+{"instruction": "Who was afflicted with leprosy for speaking out against Moses?","input": "","output": "Miriam (Num 12:10)"}
+{"instruction": "After the Babylonian exile, the Jews sought wealth and possessions for themselves. What should they have been doing?","input": "","output": "Rebuilding the temple (Hag 1:2-6)"}
+{"instruction": "What did God count Abram’s faith to him as?","input": "","output": "Righteousness (Gen 15:6)"}
+{"instruction": "What sin stopped Moses from leading the children of Israel into the Promised Land?","input": "","output": "Hitting a rock twice (instead of speaking to it) (Num 20:11)"}
+{"instruction": "Whose hair when cut annually weighed two hundred shekels by the king’s weight?","input": "","output": "Absalom (2 Sam 14:26)"}
+{"instruction": "During what traumatic event did the apostle Paul take bread and give thanks?","input": "","output": "Sea voyage (Acts 27:35)"}
+{"instruction": "Which man killed a lion with his bare hands?","input": "","output": "Samson (Jdg 14:5-6)"}
+{"instruction": "What was the sign that the angels gave to the shepherds, so that they would recognize Jesus?","input": "","output": "Wrapped in swaddling clothes, lying in a manger (Luke 2:12)"}
+{"instruction": "Who was to be named Zacharias, after the name of his father, until his mother intervened?","input": "","output": "John (Luke 1:60)"}
+{"instruction": "In what town did Jesus turn water into wine?","input": "","output": "Cana (John 2:1-11)"}
+{"instruction": "How long had the infirm man lain at the pool of Bethesda?","input": "","output": "Thirty-eight years (John 5:5)"}
+{"instruction": "What “doeth good like a medicine”?","input": "","output": "A merry heart (Pro 17:22)"}
+{"instruction": "What was God to give Abraham as an everlasting possession?","input": "","output": "The land of Canaan (Gen 17:8)"}
+{"instruction": "What lie was told about Naboth that led to him being stoned and Ahab taking possession of his vineyard?","input": "","output": "He had blasphemed against God and the king (1 Ki 21:10)"}
+{"instruction": "Which supernatural being or beings does the Bible say the Sadducees did not believe in?","input": "","output": "Angels (Acts 23:8)"}
+{"instruction": "Who won the hand of Caleb’s daughter, Achsah?","input": "","output": "Othniel (Josh 15:16-17)"}
+{"instruction": "What is the “light of the body”?","input": "","output": "The eye (Matt 6:22)"}
+{"instruction": "The southern kingdom of divided Israel eventually fell, but to which great power?","input": "","output": "Babylon (2 Ki 25)"}
+{"instruction": "You will be healed if you “pray for one another” and what else?","input": "","output": "Confess your faults (Jam 5:16)"}
+{"instruction": "What is in the hypocrite’s eye?","input": "","output": "A beam (Matt 7:5)"}
+{"instruction": "Which book of the Bible follows Jonah?","input": "","output": "Micah (Jon 4:11 - Mic 1:1)"}
+{"instruction": "What inscription was on the altar in Athens?","input": "","output": "To the Unknown God (Acts 17:23)"}
+{"instruction": "In which book of prophecy do we read about the valley of dry bones?","input": "","output": "Ezekiel (Eze 37:1)"}
+{"instruction": "Which baby was named after his mother’s laughter?","input": "","output": "Isaac (Gen 21:6 / Strong’s H3327)"}
+{"instruction": "Demetrius, of Ephesus was a...?","input": "","output": "Silversmith (Acts 19:24)"}
+{"instruction": "On which day of the year could the High Priest enter the Holiest Place, the inner most part of the temple where the covenant box was kept?","input": "","output": "Day of Atonement (Lev 16)"}
+{"instruction": "What was the name of the temple gate at which the lame man was laid daily?","input": "","output": "Beautiful Gate (Acts 3:2)"}
+{"instruction": "To which Jewish sect did Nicodemus belong?","input": "","output": "Pharisees (John 3:1)"}
+{"instruction": "What is the first recorded dream of Joseph, son of Jacob?","input": "","output": "Sheaves of wheat bowing down to other sheaves (Gen 37:5-7)"}
+{"instruction": "To which tribe did the apostle Paul belong?","input": "","output": "Benjamin (Rom 11:1)"}
+{"instruction": "How does James say we should “wait for the coming of the Lord”?","input": "","output": "Patiently (Jam 5:7)"}
+{"instruction": "“The blessed man will be like a tree planted by”.... what?","input": "","output": "Rivers of water (Ps 1:1-3)"}
+{"instruction": "How old was Abraham when his son Isaac was born?","input": "","output": "100 (Gen 21:5)"}
+{"instruction": "In the parable of the Pharisee and the Publican, what did the Pharisee thank God for?","input": "","output": "That he was not sinful like other men (Luke 18:11)"}
+{"instruction": "How many times did Jesus say you should forgive your brother when he sins against you?","input": "","output": "Seventy times seven (Matt 18:22)"}
+{"instruction": "What question concerning marriage did the Pharisees use to tempt Jesus?","input": "","output": "Is it lawful for a man to put away his wife? (Divorce) (Matt 19:3)"}
+{"instruction": "How does Paul tell us to “work out our own salvation”?","input": "","output": "With fear and trembling (Php 2:12)"}
+{"instruction": "In the parable of the cloth and wine, why does no man put new wine into old bottles?","input": "","output": "It will burst the bottles (Luke 5:37)"}
+{"instruction": "In which city did King Herod live at the time of Jesus’ birth?","input": "","output": "Jerusalem (Matt 2:3)"}
+{"instruction": "What is the “root of all evil”?","input": "","output": "Love of money (1 Tim 6:10)"}
+{"instruction": "What does the law say to do when you see a bird in its nest?","input": "","output": "Let the mother bird go free (Deut 22:6-7)"}
+{"instruction": "Which tribe of Israel received no inheritance of land?","input": "","output": "Levi (Deut 10:9)"}
+{"instruction": "In Nebuchadnezzar’s dream what happened to destroy the statue made from different metals?","input": "","output": "A stone hit the feet and broke them into pieces (Dan 2:34)"}
+{"instruction": "Which King took possession of Naboth’s vineyard?","input": "","output": "Ahab (1 Ki 21:16)"}
+{"instruction": "For how many days did Jesus appear to his disciples after his resurrection?","input": "","output": "Forty (Acts 1:3)"}
+{"instruction": "Who did Paul write a letter to concerning his slave Onesimus?","input": "","output": "Philemon (Phm 1:1-25)"}
+{"instruction": "How many churches of Asia Minor were listed in Revelation?","input": "","output": "Seven (Rev 1:11)"}
+{"instruction": "What object did Gideon place on the ground to receive a sign from God?","input": "","output": "Fleece (Jdg 6:37)"}
+{"instruction": "Why did Moses’ hand become leprous?","input": "","output": "As a sign (Exo 4:6-8)"}
+{"instruction": "In which city in Judah did Cyrus tell the Israelites to build the temple?","input": "","output": "Jerusalem (Ezr 6:3)"}
+{"instruction": "Which missionary was described as having “known the holy scriptures from an early age”?","input": "","output": "Timothy (2 Tim 3:15)"}
+{"instruction": "What affliction did Paul strike Elymas the sorcerer down with?","input": "","output": "Blindness (Acts 13:8,11)"}
+{"instruction": "Who was Boaz a kinsman of?","input": "","output": "Elimelech (Ruth 2:1)"}
+{"instruction": "What animals were carved on Solomon’s throne?","input": "","output": "Lions (1 Ki 10:19)"}
+{"instruction": "What did Jesus and the disciples have for breakfast when Jesus appeared to them after the resurrection by the Sea of Tiberias?","input": "","output": "Bread and fish (John 21:13)"}
+{"instruction": "Which woman was a seller of purple goods?","input": "","output": "Lydia (Acts 16:14)"}
+{"instruction": "What were the restrictions on marriage for the daughters of Zelophehad?","input": "","output": "They must marry within their tribe (Num 36:6)"}
+{"instruction": "Who said, “A light to lighten the Gentiles, and the glory of thy people Israel,” when he saw Jesus?","input": "","output": "Simeon (Luke 2:25,32)"}
+{"instruction": "How did Moses assure victory against the Amalekites?","input": "","output": "Kept his hands held up (Exo 17:11-12)"}
+{"instruction": "What was the occupation of Hosea’s wife?","input": "","output": "Harlot (Hos 1:2)"}
+{"instruction": "In the Sermon on the Mount, what does Jesus say you should do when you fast?","input": "","output": "Anoint your head, and wash your face (Matt 6:18)"}
+{"instruction": "Which church did Jesus accuse of being lukewarm?","input": "","output": "Laodicea (Rev 3:16)"}
+{"instruction": "Why are the Thessalonians told not to worry about those Christians who have died?","input": "","output": "They will be raised to life again (1 Th 4:13-15)"}
+{"instruction": "In the parable of the sower, what happened to the seed that fell on the path?","input": "","output": "Eaten by birds (Matt 13:4)"}
+{"instruction": "What was the name of the man who requested Jesus’ body for burial?","input": "","output": "Joseph (of Arimathaea) (Matt 27:57-58)"}
+{"instruction": "How many Philistines did Samson say he had killed with the jawbone of a donkey?","input": "","output": "1,000 (Jdg 15:16)"}
+{"instruction": "Which book of the Bible precedes Jonah?","input": "","output": "Obadiah (Oba 1:21 - Jon 1:1)"}
+{"instruction": "Who did Samuel anoint as the first King of Israel?","input": "","output": "Saul (1 Sam 10:1,19-24)"}
+{"instruction": "What was mankind’s first sin in the Bible?","input": "","output": "Eating some fruit (Gen 3:6)"}
+{"instruction": "What was the first bird released from the ark?","input": "","output": "Raven (Gen 8:7)"}
+{"instruction": "What nationality was Timothy’s father?","input": "","output": "Greek (Acts 16:1)"}
+{"instruction": "In Revelation, what is the “number of a man”?","input": "","output": "666 (Rev 13:18)"}
+{"instruction": "How many elders sat around the throne of God?","input": "","output": "Twenty-four (Rev 4:4)"}
+{"instruction": "What order did Joshua give to God while fighting the Amorites?","input": "","output": "Make the sun and moon stand still (Josh 10:12-14)"}
+{"instruction": "How many years did the Lord add to Hezekiah’s life after being healed of his sickness?","input": "","output": "Fifteen (2 Ki 20:6)"}
+{"instruction": "What was the second plague upon Egypt?","input": "","output": "Frogs (Exo 8:6)"}
+{"instruction": "Which disciple looked after Mary, after the death of Jesus?","input": "","output": "John (John 19:26-27)"}
+{"instruction": "Jesus was a high priest after the order of which ancient king, mentioned in Psalm 110?","input": "","output": "Melchizedek (Ps 110:4)"}
+{"instruction": "Which two provinces looked up to Thessalonica as an example?","input": "","output": "Macedonia & Achaia (1 Th 1:7)"}
+{"instruction": "Who was Noah’s father?","input": "","output": "Lamech (Gen 5:28-29)"}
+{"instruction": "Who did Pilate send Jesus to after he had interrogated him?","input": "","output": "Herod (Luke 23:7)"}
+{"instruction": "Daniel had a dream about four things. What sort of things?","input": "","output": "Beasts (Dan 7:3)"}
+{"instruction": "In the parable of the sower, what did the seed that fell among thorns represent?","input": "","output": "Those people who hear God’s word but then it’s choked out by worldly cares (Matt 13:22)"}
+{"instruction": "Who was the father of Jonah?","input": "","output": "Amittai (Jon 1:1)"}
+{"instruction": "What relation to Abram was Lot?","input": "","output": "His nephew (Gen 14:12)"}
+{"instruction": "Who will the “least person in the Kingdom of God” be greater than?","input": "","output": "John the Baptist (Luke 7:28)"}
+{"instruction": "In what month of Elisabeth’s pregnancy did the angel appear to Mary?","input": "","output": "Sixth (Luke 1:26)"}
+{"instruction": "What was the content of the cupbearer’s dream interpreted by Joseph?","input": "","output": "A vine bringing forth grapes which are pressed into a cup (Gen 40:9-12)"}
+{"instruction": "“Hope deferred” maketh what sick?","input": "","output": "The heart (Pro 13:12)"}
+{"instruction": "Who laid their hands on Saul of Tarsus, curing him of the blindness he received on the road to Damascus?","input": "","output": "Ananias (Acts 9:17)"}
+{"instruction": "Who was Paul with when he wrote the letter to Philemon?","input": "","output": "Timothy (Phm 1:1)"}
+{"instruction": "What did Joseph send to his father from Egypt?","input": "","output": "Ten male donkeys and ten female donkeys laden with goods from Egypt (Gen 45:23)"}
+{"instruction": "In which town did Martha and Mary live?","input": "","output": "Bethany (John 11:1)"}
+{"instruction": "Who stole her father’s household gods?","input": "","output": "Rachel (Gen 31:32)"}
+{"instruction": "What was the fate of the man who had no wedding robe at the parable of the marriage feast?","input": "","output": "Cast into darkness (Matt 22:13)"}
+{"instruction": "How long did Solomon reign over Israel?","input": "","output": "Forty years (1 Ki 11:42)"}
+{"instruction": "In Psalm 52, the psalmist describes himself as what kind of tree in the house of God?","input": "","output": "Olive (Ps 52:8)"}
+{"instruction": "Who was compared unfavorably to the lilies of the field?","input": "","output": "King Solomon (Matt 6:28-29)"}
+{"instruction": "Of what did Peter and John heal the man at the temple gate called Beautiful?","input": "","output": "Lameness (Acts 3:2)"}
+{"instruction": "Which region was specially noted for its balm?","input": "","output": "Gilead (Jer 46:11)"}
+{"instruction": "What should the Thessalonians do with brethren who are “not obeying the epistle’s word”?","input": "","output": "Have no company with them so that they are ashamed (2 Th 3:14)"}
+{"instruction": "Why should a father not “provoke a child to anger”?","input": "","output": "In case they become discouraged (Col 3:21)"}
+{"instruction": "What did God rain down on the Amorite army as they passed through Beth-Horon, killing more of them than the Israelite army did?","input": "","output": "Hailstones (Josh 10:11)"}
+{"instruction": "While John was baptizing, what did he call the Pharisees and Sadducees?","input": "","output": "Generation of vipers (Matt 3:7)"}
+{"instruction": "Whose son did Elijah raise from the dead?","input": "","output": "The widow of Zarephath (1 Ki 17:22)"}
+{"instruction": "Which group of people stood and watched Jesus as he ascended into heaven?","input": "","output": "Men of Galilee (Disciples) (Acts 1:11)"}
+{"instruction": "What object did Elisha cause to float?","input": "","output": "Axe head (2 Ki 6:5-6)"}
+{"instruction": "By what name was the disciple Tabitha also known?","input": "","output": "Dorcas (Acts 9:36)"}
+{"instruction": "From which land did Isaac tell Jacob not to take a wife?","input": "","output": "Canaan (Gen 28:1)"}
+{"instruction": "How does Paul describe marriage in Hebrews?","input": "","output": "Honorable (Heb 13:4)"}
+{"instruction": "To whom was Jesus referring when he said, “Go tell that fox, behold I cast out devils?”","input": "","output": "Herod (Luke 13:31-32)"}
+{"instruction": "How old was Joseph when he began serving Pharaoh?","input": "","output": "Thirty (Gen 41:46)"}
+{"instruction": "What did Naboth refuse to sell?","input": "","output": "Vineyard (1 Ki 21:2-3)"}
+{"instruction": "Which living creatures in the water were deemed unclean?","input": "","output": "Those without fins and scales (Deut 14:9)"}
+{"instruction": "What must a Christian do to “earn their own bread to eat”?","input": "","output": "Work quietly (2 Th 3:12)"}
+{"instruction": "What was the name of the father of Caleb the spy?","input": "","output": "Jephunneh (Num 13:6)"}
+{"instruction": "Which apostle baptized the Ethiopian eunuch?","input": "","output": "Philip (Acts 8:38)"}
+{"instruction": "Who promised the “gift of power to tread on serpents and scorpions”?","input": "","output": "Jesus (Luke 10:19)"}
+{"instruction": "Which king was saved from death by Abraham’s prayer?","input": "","output": "Abimelech (Gen 20:17)"}
+{"instruction": "What did Abram do when he heard that Lot was made a prisoner of war?","input": "","output": "Fought to rescue him (Gen 14:14-16)"}
+{"instruction": "Who sang, “My soul doth magnify the Lord”?","input": "","output": "Mary (Luke 1:46)"}
+{"instruction": "At what place did the Israelites arrive only to find the water was too bitter to drink, where upon God caused it to become sweet?","input": "","output": "Marah (Exo 15:23)"}
+{"instruction": "Which Psalm describes how well the Lord knows man, starting with the line, “O Lord, thou hast searched me, and known me”?","input": "","output": "Psalm 139 (Ps 139:1)"}
+{"instruction": "When Moses blessed the tribes before his death, to what animal did he compare Gad?","input": "","output": "Lion (Deut 33:20)"}
+{"instruction": "When Saul defeated the Amalekites he disobeyed God and took possessions from the land. What was the name of the king he also spared?","input": "","output": "Agag (1 Sam 15:9)"}
+{"instruction": "What was Paul’s “distinguishing mark” in the letters he wrote?","input": "","output": "He wrote the greetings in his own handwriting (2 Th 3:17)"}
+{"instruction": "Which king had a feast using the gold and silver vessels taken from the temple in Jerusalem?","input": "","output": "Belshazzar (Dan 5:2)"}
+{"instruction": "“The fear of the Lord is the beginning of knowledge, but fools despise”... what?","input": "","output": "Wisdom and instruction (Pro 1:7)"}
+{"instruction": "How should a “merry person” behave, according to James?","input": "","output": "Sing psalms (Jam 5:13)"}
+{"instruction": "What sacrifice did Mary and Joseph offer when the days of purification were complete after Jesus’ birth?","input": "","output": "Two turtledoves or pigeons (Luke 2:24)"}
+{"instruction": "Who sat down under a tree and asked the Lord to take away his life?","input": "","output": "Elijah (1 Ki 19:4)"}
+{"instruction": "What god did the Philistines offer sacrifices to?","input": "","output": "Dagon (Jdg 16:23)"}
+{"instruction": "Which judge unknowingly vowed his daughter to the Lord as a burnt offering?","input": "","output": "Jephthah (Jdg 11:30-40)"}
+{"instruction": "God appeared to Jacob on the way to Egypt in a vision at Beer-sheba, but what did he tell him?","input": "","output": "Don’t fear going to Egypt, he would be made into a great nation there (Gen 46:3)"}
+{"instruction": "What did God tell the people not to eat after the flood?","input": "","output": "Blood (Gen 9:4)"}
+{"instruction": "What punishment was given to Gehazi for his greed?","input": "","output": "Made leprous (2 Ki 5:25-27)"}
+{"instruction": "How did Rahab let the invading Israelites identify her house?","input": "","output": "She tied a red thread in the window (Josh 2:18)"}
+{"instruction": "Which angel told Daniel the meaning of his vision of the ram and the goat?","input": "","output": "Gabriel (Dan 8:16)"}
+{"instruction": "Which king helped Solomon with his building projects?","input": "","output": "Hiram, King of Tyre (1 Ki 7:13)"}
+{"instruction": "How many missionary journeys did Paul undertake before his journey to Rome?","input": "","output": "Three (Acts 13 - 21)"}
+{"instruction": "What was Timothy advised to take to help with his illnesses?","input": "","output": "Wine (1 Tim 5:23)"}
+{"instruction": "What happened to the prophet from Judah who was led to disobey God when a prophet from Bethel lied to him saying he was allowed to come back and share a meal with him?","input": "","output": "Killed by a lion (1 Ki 13:24)"}
+{"instruction": "Who was the goddess of the Ephesians?","input": "","output": "Diana (Artemis) (Acts 19:28)"}
+{"instruction": "How many volunteer soldiers did Gideon have initially?","input": "","output": "32,000 (Jdg 7:3)"}
+{"instruction": "What will Jesus “drink new in the Kingdom of God”?","input": "","output": "The fruit of the vine (Matt 26:29)"}
+{"instruction": "What objects did Gideon and his army use to defeat the Midianites?","input": "","output": "Trumpets, pitchers and lamps (Jdg 7:15-22)"}
+{"instruction": "Who had a slave named Onesimus?","input": "","output": "Philemon (Phm 1:10-11)"}
+{"instruction": "In which province was Thessalonica located?","input": "","output": "Macedonia (Acts 16-18)"}
+{"instruction": "Which is the shortest Psalm?","input": "","output": "Psalm 117 (Ps 117)"}
+{"instruction": "How did the townspeople regard Ruth?","input": "","output": "As a virtuous (worthy) woman (Ruth 3:11)"}
+{"instruction": "In Revelation, how many people from each tribe were “sealed”?","input": "","output": "12,000 (Rev 7:5-8)"}
+{"instruction": "Who slept under a juniper tree after fleeing for his life?","input": "","output": "Elijah (1 Ki 19:5)"}
+{"instruction": "Who thought that the gift of God could be purchased with money?","input": "","output": "Simon (the sorcerer) (Acts 8:18)"}
+{"instruction": "What is described as a “tree of life to them that lay hold upon her”?","input": "","output": "Wisdom (Pro 3:18)"}
+{"instruction": "What relation was John Mark to Barnabas?","input": "","output": "Cousin / Sister’s son (KJV) (Col 4:10)"}
+{"instruction": "Finish the proverb: “The rod and reproof give wisdom, but a child left to himself.”..","input": "","output": "...bringeth his mother to shame (Pro 29:15)"}
+{"instruction": "Why wasn’t David allowed to build God’s house?","input": "","output": "Because he was a man of war (1 Chr 28:3)"}
+{"instruction": "Which parts of his body did Peter ask Jesus to wash, after being told that unless Jesus washed his feet he would have no part with him?","input": "","output": "Feet, hands and head (John 13:9)"}
+{"instruction": "What did the Holy Spirit look like when the disciples received it?","input": "","output": "Tongues of fire (Acts 2:3)"}
+{"instruction": "Which two of the eight signs, or miracles, recorded in John, are also recorded in other gospel records?","input": "","output": "Feeding of the 5,000 and Jesus walks on water (John 6:1; 6:16)"}
+{"instruction": "Who led the people of Israel into the Promised Land?","input": "","output": "Joshua (Josh 1:2)"}
+{"instruction": "With what object did Jael kill Sisera?","input": "","output": "Tent peg (Jdg 4:21)"}
+{"instruction": "“Praise ye him, all his angels: praise ye him, all his hosts”, is followed by which line?","input": "","output": "Praise ye him, sun and moon, praise him, all ye stars of light (Ps 148:2-3)"}
+{"instruction": "Which of Leah’s sons brought her mandrakes?","input": "","output": "Reuben (Gen 30:14)"}
+{"instruction": "It is “better to obtain wisdom” than what?","input": "","output": "Gold (Pro 16:16)"}
+{"instruction": "In which book of the Bible do we read of David and Goliath?","input": "","output": "1 Samuel (1 Sam 17)"}
+{"instruction": "Many of the chief rulers privately believed in Jesus. Why did they not confess this belief publicly?","input": "","output": "They were afraid the Pharisees would put them out of the synagogue (John 12:42)"}
+{"instruction": "When Jesus left Nazareth and began his ministry in Capernaum, what message did he preach?","input": "","output": "Repent: for the kingdom of heaven is at hand (Matt 4:17)"}
+{"instruction": "According to James, what should we do after “confessing our faults to one another”?","input": "","output": "Pray for one another (Jam 5:16)"}
+{"instruction": "How old was Joshua when he died?","input": "","output": "110 (Josh 24:29)"}
+{"instruction": "Who was the king of Judea at the time of Jesus’ birth?","input": "","output": "Herod (the Great) (Matt 2:1)"}
+{"instruction": "What seed did Manna look like?","input": "","output": "Coriander (Num 11:7)"}
+{"instruction": "Which disciple brought the boy with five loaves and two fishes to Jesus?","input": "","output": "Andrew (John 6:8)"}
+{"instruction": "According to James, what should we do when we “fall into temptation”?","input": "","output": "Count it all joy (Jam 1:2)"}
+{"instruction": "Whose “days are like grass,” according to the Psalmist?","input": "","output": "Man (Ps 103:15)"}
+{"instruction": "Which animal is associated with the first four of the seven seals?","input": "","output": "Horse (Rev 6)"}
+{"instruction": "Which kind of bird did Jesus say were “sold two for a farthing”?","input": "","output": "Sparrows (Matt 10:29)"}
+{"instruction": "Who was the father of Abraham?","input": "","output": "Terah (Gen 11:31)"}
+{"instruction": "How were the family warned that someone wanted to kill the baby Jesus?","input": "","output": "In a dream (Matt 2:13)"}
+{"instruction": "How did the sailors discover Jonah was responsible for the storm?","input": "","output": "Cast lots (Jon 1:7)"}
+{"instruction": "What did the chief priest and Pharisees give Judas to enable him to help arrest Jesus?","input": "","output": "A band of men and officers (John 18:3)"}
+{"instruction": "How old was Josiah when he became king of Judah?","input": "","output": "Eight (2 Ki 22:1)"}
+{"instruction": "What was the name of Abigail’s first husband?","input": "","output": "Nabal (1 Sam 25:3)"}
+{"instruction": "Why did Jephthah flee to the land of Tob?","input": "","output": "He was illegitimate and his brothers drove him out (Jdg 11:1-3)"}
+{"instruction": "Where did the hypocrites “love to pray”?","input": "","output": "Standing in synagogues and on street corners (Matt 6:5)"}
+{"instruction": "Who did Paul heal at Lystra?","input": "","output": "A lame man (Acts 14:8)"}
+{"instruction": "Which animal did the ten spies liken themselves to, when compared to the people of the land of Canaan?","input": "","output": "Grasshoppers (Num 13:33)"}
+{"instruction": "After Pilate found no guilt in Christ, for what reason did the Jews say that Jesus should die?","input": "","output": "He claimed to be the Son of God (John 19:7)"}
+{"instruction": "In a parable told by Jesus, two men went up to the temple to pray, a Pharisee and who else?","input": "","output": "Publican (tax collector) (Luke 18:10)"}
+{"instruction": "Who were the first two disciples to be called?","input": "","output": "Simon (Peter) and Andrew (Matt 4:18-19)"}
+{"instruction": "How many sons did Gideon have?","input": "","output": "Seventy (Jdg 8:30)"}
+{"instruction": "On which day of the creation did God create trees and plants?","input": "","output": "Third (Gen 1:11-13)"}
+{"instruction": "On which island did Paul preach on his first missionary journey?","input": "","output": "Cyprus (Acts 13:4)"}
+{"instruction": "Why did the Pharisees deride Jesus when he said, “You cannot serve God and Mammon”?","input": "","output": "They were covetous (loved money) (Luke 16:13-14)"}
+{"instruction": "What was Samson’s offer of reward if the Philistines could solve his riddle?","input": "","output": "Clothing (Jdg 14:12)"}
+{"instruction": "How many of Nineveh’s inhabitants could not “discern their left hand from their right hand”?","input": "","output": "120,000 (Jon 4:11)"}
+{"instruction": "What did the mighty angel throw into the sea that represented the throwing down of Babylon?","input": "","output": "A stone like a great millstone (Rev 18:21)"}
+{"instruction": "God calls us to a life of holiness, but according to Thessalonians what are we told we are doing if we ignore this advice?","input": "","output": "Despising God (1 Th 4:7-8)"}
+{"instruction": "How did Paul escape from Damascus?","input": "","output": "In a basket down the city wall (Acts 9:23-25)"}
+{"instruction": "According to the Book of Proverbs, what is “bound in the heart of a child”?","input": "","output": "Foolishness (Pro 22:15)"}
+{"instruction": "Which men murdered the Levite’s concubine?","input": "","output": "The men of Gibeah (Jdg 19:15-28)"}
+{"instruction": "What happened when the third vial of wrath was poured on the earth?","input": "","output": "The rivers and fountains of waters became blood (Rev 16:4)"}
+{"instruction": "On what type of stone were the twelve children of Israel to have their names engraved, as part of the High Priest’s garments?","input": "","output": "An onyx (Exo 28:9)"}
+{"instruction": "What sin did Achan commit?","input": "","output": "Theft (Josh 7:1)"}
+{"instruction": "Who was the father of Saul?","input": "","output": "Kish (1 Sam 14:51)"}
+{"instruction": "What four beasts did Daniel see in a vision?","input": "","output": "Lion, Bear, Leopard & Terrible beast (Dan 7:3-7)"}
+{"instruction": "Wisdom is “more precious” than which gems?","input": "","output": "Rubies (Pro 8:11)"}
+{"instruction": "What did the Israelites borrow from their Egyptian neighbors?","input": "","output": "Jewels and clothing (Exo 3:22)"}
+{"instruction": "Who came into Galilee preaching the Kingdom of God?","input": "","output": "Jesus (Mark 1:14)"}
+{"instruction": "What did God create on the fifth day?","input": "","output": "Underwater creatures and birds (Gen 1:20-23)"}
+{"instruction": "What Egyptian name did Pharaoh give to Joseph?","input": "","output": "Zaphnath-paaneah (Gen 41:45)"}
+{"instruction": "What did Jesus do before driving the money-changers out of the temple?","input": "","output": "Made a whip (John 2:14)"}
+{"instruction": "What reward did Jesus say the twelve apostles would get for forsaking everything and following him?","input": "","output": "You will sit on twelve thrones judging the twelve tribes of Israel (Matt 19:28)"}
+{"instruction": "Who said, “Worthy is the lamb who was slain”?","input": "","output": "Thousands upon thousands of angels (Rev 5:11-12)"}
+{"instruction": "Who gave water to the camels of Abraham’s servant, in answer to his prayer?","input": "","output": "Rebekah (Gen 24:14-19)"}
+{"instruction": "In which gospel does Jesus state that he is the “Bread of Life?”","input": "","output": "John (John 6:48)"}
+{"instruction": "How many fish were caught in the miracle of the draught of fishes?","input": "","output": "153 (John 21:11)"}
+{"instruction": "From which minor prophet is Jesus quoting when he says, “I am come to set the daughter against her mother”?","input": "","output": "Micah (Mic 7:6)"}
+{"instruction": "After seeing the destruction of Jericho and Ai, the inhabitants of which city pretended to be travelers from a far off land to make a covenant of peace with the Israelites?","input": "","output": "Gibeon (Josh 9:3-6)"}
+{"instruction": "In the parable of the Good Samaritan, who was the first man to pass by the wounded man?","input": "","output": "Priest (Luke 10:31)"}
+{"instruction": "What did Paul do when he couldn’t bear to be away from the brethren at Thessalonica any longer?","input": "","output": "Sent Timothy to encourage them (1 Th 3:1-2)"}
+{"instruction": "What did James and John want to do to the unwelcoming Samaritan village?","input": "","output": "Call down fire from heaven (Luke 9:54)"}
+{"instruction": "Jesus said not to “swear by your head” because you cannot do what?","input": "","output": "Make one hair black or white (Matt 5:36)"}
+{"instruction": "On the fourth day God made the Sun, Moon and what else?","input": "","output": "Stars (Gen 1:14-18)"}
+{"instruction": "In the New Jerusalem described in Revelation, what are the twelve gates made from?","input": "","output": "Pearls (Rev 21:21)"}
+{"instruction": "Which Psalm is entitled “A Prayer of Moses”?","input": "","output": "Psalm 90 (Ps 90:1)"}
+{"instruction": "On what day of creation were dry land and seas created?","input": "","output": "Third (Gen 1:9-13)"}
+{"instruction": "How many tribes was Jeroboam promised he would rule over?","input": "","output": "Ten (1 Ki 11:31)"}
+{"instruction": "Which brother did Joseph imprison while the others returned to Jacob?","input": "","output": "Simeon (Gen 42:24)"}
+{"instruction": "How many spies did Moses send out to explore the land of Canaan?","input": "","output": "Twelve (Num 13:2-16)"}
+{"instruction": "Which bird does Job say is “lacking in wisdom”, due to the fact she leaves her eggs on the floor?","input": "","output": "Ostrich (Job 39:13-17)"}
+{"instruction": "Whose mother found him a wife from Egypt?","input": "","output": "Ishmael (Gen 21:21)"}
+{"instruction": "Noah was a “preacher” of what?","input": "","output": "Righteousness (2 Pe 2:5)"}
+{"instruction": "Which of the twelve sons of Jacob had a name that means “praise”?","input": "","output": "Judah (Gen 29:35)"}
+{"instruction": "What is the message of the parable that Jesus told Simon the Pharisee?","input": "","output": "He who has many debts forgiven, loves the one who forgave him more than he who has few debts forgiven. (Luke 7:42-43)"}
+{"instruction": "How many men and women were in the temple to watch Samson entertain them?","input": "","output": "3,000 (Jdg 16:27)"}
+{"instruction": "Who escorted the slave with the letter to Philemon?","input": "","output": "Tychicus (Col 4:7-9)"}
+{"instruction": "Who was Paul writing to when he wrote “I will receive you and will be a Father unto you and ye shall be my sons and daughters, saith the Lord Almighty”?","input": "","output": "Corinthians (2 Cor 6:17-18)"}
+{"instruction": "What was the name of the servant who had his ear cut off at the arrest of Jesus?","input": "","output": "Malchus (John 18:10)"}
+{"instruction": "What did Samson carry to the top of the hill overlooking Hebron?","input": "","output": "City gates (Jdg 16:3)"}
+{"instruction": "Whose house did Paul go to in Caesarea?","input": "","output": "Philip (Acts 21:8)"}
+{"instruction": "Who went to sleep during one of Paul’s sermons and fell out of the window?","input": "","output": "Eutychus (Acts 20:9)"}
+{"instruction": "Which prophet of God told Naaman to wash in the river Jordan to cure his leprosy?","input": "","output": "Elisha (2 Ki 5:10)"}
+{"instruction": "What occupation did Priscilla have?","input": "","output": "Tentmaker (Acts 18:2-3)"}
+{"instruction": "One title of God is El Shaddai, which means what?","input": "","output": "Almighty God (Gen 17:1)"}
+{"instruction": "What is the seventh commandment?","input": "","output": "Thou shall not commit adultery (Exo 20:14)"}
+{"instruction": "How many cities of refuge were on the east side of Jordan?","input": "","output": "Three (Deut 4:41-43)"}
+{"instruction": "What was the name of Joseph’s (son of Jacob) first born son?","input": "","output": "Manasseh (Gen 41:51)"}
+{"instruction": "According to the Bible what sort of man was Noah?","input": "","output": "Just / Godly / Blameless (Gen 6:9)"}
+{"instruction": "How many tribes inherited land on the east of Jordan?","input": "","output": "Two and a half (Josh 18:7)"}
+{"instruction": "What relation was Lois to Timothy?","input": "","output": "Grandmother (2 Tim 1:5)"}
+{"instruction": "In the parable of the Good Samaritan, who was the second man to pass by the robbed man?","input": "","output": "Levite (Luke 10:30-32)"}
+{"instruction": "What was the name of the city where Lydia was converted?","input": "","output": "Philippi (Acts 16:11-14)"}
+{"instruction": "Against which enemy did Jephthah lead Israel?","input": "","output": "Ammonites (Jdg 11:9-11)"}
+{"instruction": "What was the name of the prophet who prophesied that Paul would be bound at Jerusalem?","input": "","output": "Agabus (Acts 21:10-11)"}
+{"instruction": "How did King Zimri commit suicide?","input": "","output": "Burned his house down while still inside it (1 Ki 16:18)"}
+{"instruction": "In the parable of the laborers in the vineyard how much was each person paid to work?","input": "","output": "One pence (denarius) (Matt 20:2)"}
+{"instruction": "Whose wife went into labor and gave birth on hearing the news that the Ark of God was captured and that her father-in-law and husband were dead?","input": "","output": "Phinehas’ (1 Sam 4:19)"}
+{"instruction": "In Luke’s account of the Beatitudes who does Jesus say the Kingdom of God belongs to?","input": "","output": "The poor (Luke 6:20)"}
+{"instruction": "For what reason did Isaac say he loved Esau?","input": "","output": "Isaac ate of his venison (Gen 25:28)"}
+{"instruction": "In the ritual cleansing of a leper under the Law of Moses, which animals were to be offered on the eighth day?","input": "","output": "Lambs (Lev 14:10)"}
+{"instruction": "Who should you “withdraw from”, according to the epistles of Thessalonians?","input": "","output": "Idle/disorderly brethren (2 Th 3:6)"}
+{"instruction": "Psalm 91 verses 11 and 12 are quoted in which New Testament incident?","input": "","output": "The temptation of Jesus (Matt 4:6)"}
+{"instruction": "How was the earth watered initially before rain?","input": "","output": "Mist went up from the earth (Gen 2:5-6)"}
+{"instruction": "What proportion of his goods did Zacchaeus give away to the poor?","input": "","output": "Half (Luke 19:8)"}
+{"instruction": "How old was Anna the prophetess when she saw Jesus?","input": "","output": "Eighty-four (Luke 2:37)"}
+{"instruction": "What did Rachel steal from her father, Laban, when she left home with her husband Jacob?","input": "","output": "Household gods / idols (Gen 31:19)"}
+{"instruction": "The snail is mentioned in which Psalm?","input": "","output": "Psalm 58 (Ps 58:8)"}
+{"instruction": "How does Psalm 96 say we should worship God?","input": "","output": "In the beauty of holiness (Ps 96:9)"}
+{"instruction": "Why should children listen to “the instruction of a father”?","input": "","output": "To gain understanding (Pro 4:1)"}
+{"instruction": "What did the disciples say to Jesus before the ascension?","input": "","output": "Lord will you at this time restore again the kingdom to Israel? (Acts 1:6)"}
+{"instruction": "What did Jesus eat to convince the disciples that he was indeed raised from the dead?","input": "","output": "Fish and honeycomb (Luke 24:42)"}
+{"instruction": "How old was Joseph when he died? Where was David born?","input": "","output": "110 (Gen 50:22)"}
+{"instruction": "Where was David born?","input": "","output": "Bethlehem (1 Sam 17:58)"}
+{"instruction": "How were the Thessalonians told to “keep their own bodies”?","input": "","output": "In sanctification and honor (1 Th 4:4)"}
+{"instruction": "How many companions did the Philistines give to Samson at the feast in Timnah?","input": "","output": "Thirty (Jdg 14:11)"}
+{"instruction": "How many times did Noah send out the dove?","input": "","output": "Three (Gen 8:8-12)"}
+{"instruction": "What instruments were used to praise God when the temple foundation was rebuilt?","input": "","output": "Trumpets and cymbals (Ezr 3:10)"}
+{"instruction": "How many “minor prophets” are there?","input": "","output": "Twelve (Hos 1:1 - Mal 4:6)"}
+{"instruction": "“Honor thy father and thy mother” is one of the ten commandments. Which one?","input": "","output": "Fifth (Exo 20:12)"}
+{"instruction": "What did Daniel see by the river Hiddekel?","input": "","output": "A man clothed in linen (Dan 10:5)"}
+{"instruction": "In the time of the Judges, civil war broke out against which tribe?","input": "","output": "Benjamin (Jdg 20)"}
+{"instruction": "Paul thanks God that he did not baptize any of the Corinthians, except for which people?","input": "","output": "Crispus, Gaius and the household of Stephanas (1 Cor 1:14-16)"}
+{"instruction": "Which Pharisee said that if the gospel truly comes from God, no-one will be able to stop it spreading?","input": "","output": "Gamaliel (Acts 5:34-39)"}
+{"instruction": "Where does Solomon say that leopards live?","input": "","output": "Mountains (Song 4:8)"}
+{"instruction": "What did the New Jerusalem look like in the book of Revelation?","input": "","output": "Like a bride (Rev 21:2)"}
+{"instruction": "Melchizedek was a high priest, but also king of where?","input": "","output": "Salem (Gen 14:18, Heb 7:1)"}
+{"instruction": "Which king had the longest reign over the Kingdom of Israel?","input": "","output": "Jeroboam II (2 Ki 14:23)"}
+{"instruction": "On what day of the week was Christ resurrected?","input": "","output": "First (John 20:1)"}
+{"instruction": "Paul and Silas were imprisoned during the second missionary journey, but in what city did this happen?","input": "","output": "Philippi (Acts 16:12)"}
+{"instruction": "What is the shortest book in the Old Testament?","input": "","output": "Obadiah (Oba 1:1-21)"}
+{"instruction": "In Matthew’s account of the Sermon on the Mount, what was the first of the Beatitudes?","input": "","output": "Blessed are the poor in spirit for theirs is the kingdom of heaven (Matt 5:3)"}
+{"instruction": "Jesus appeared to his disciples after the resurrection beside which sea?","input": "","output": "Sea of Tiberias (Galilee) (John 6:1; 21:1)"}
+{"instruction": "How many wise men does the Bible say came to visit Jesus?","input": "","output": "It doesn’t say (Matt 2:1-12)"}
+{"instruction": "Where did Philip preach the good news about the Kingdom of God leading to many baptisms?","input": "","output": "Samaria (Acts 8:12)"}
+{"instruction": "What did Paul do immediately after receiving his sight back?","input": "","output": "He was baptized (Acts 9:18)"}
+{"instruction": "What was the name of the city where Elijah raised the widow’s son from the dead?","input": "","output": "Zarephath (1 Ki 17:9-23)"}
+{"instruction": "Who said, “To obey is better than sacrifice”?","input": "","output": "Samuel (1 Sam 15:22)"}
+{"instruction": "What was the name of a man who was given the Spirit of God, to enable him to become a good craftsman, and assist with the building of the tabernacle?","input": "","output": "Bezaleel (Exo 31:2-3)"}
+{"instruction": "Which prophet told Jeroboam he would rule over ten tribes?","input": "","output": "Ahijah (1 Ki 11:30-31)"}
+{"instruction": "What did Melchizedek give to Abram?","input": "","output": "Bread and wine (Gen 14:18)"}
+{"instruction": "What argument prompted Jesus to tell his disciples that they would judge the twelve tribes in the kingdom?","input": "","output": "Disputing who was the greatest disciple (Luke 22:24-30)"}
+{"instruction": "Who was king of the southern kingdom when the northern kingdom of Israel fell to Assyria?","input": "","output": "Hezekiah (2 Ki 18:9-12)"}
+{"instruction": "The fifth trumpet in Revelation is a plague which was also a plague upon Egypt in Exodus. Which one?","input": "","output": "Locusts (Rev 9:1-4)"}
+{"instruction": "In Zechariah, the prophet has a vision of a man riding a red horse and standing under what kind of tree?","input": "","output": "Myrtle (Zec 1:8)"}
+{"instruction": "For how long did Abdon, son of Hillel, judge Israel?","input": "","output": "Eight years (Jdg 12:13-14)"}
+{"instruction": "When the Israelites came to Elim, how many palm trees were there?","input": "","output": "Seventy (Exo 15:27)"}
+{"instruction": "How many rivers did the river in Eden split into once it left the garden?","input": "","output": "Four (Gen 2:10)"}
+{"instruction": "What was the name of the Sorcerer Paul met on the island of Cyprus?","input": "","output": "Elymas (Bar-Jesus) (Acts 13:8)"}
+{"instruction": "How much did Ruth glean on her first day in Boaz’s field?","input": "","output": "An ephah of barley (Ruth 2:17)"}
+{"instruction": "Who thanked King David for allowing his (David’s) son Absalom to return to Jerusalem?","input": "","output": "Joab (2 Sam 14:22)"}
+{"instruction": "In the parable of the lamp, where is the candle to be “set once it is lit”?","input": "","output": "In a candlestick (Luke 11:33)"}
+{"instruction": "“A wholesome (healing), tongue” is described as what?","input": "","output": "A tree of life (Pro 15:4)"}
+{"instruction": "Three of David’s mighty men risked their lives against the Philistines to get him a drink of water from where?","input": "","output": "A well of Bethlehem (2 Sam 23:15-16)"}
+{"instruction": "What feast was instituted when Queen Esther saved the Jews from destruction?","input": "","output": "Purim (Est 9:24-26)"}
+{"instruction": "What was the name of the field where Abraham buried his wife?","input": "","output": "Machpelah (Gen 23:19)"}
+{"instruction": "From which country did Solomon import horses?","input": "","output": "Egypt (1 Ki 10:28)"}
+{"instruction": "What miracle did Jesus perform just before healing Legion of his unclean spirit?","input": "","output": "Calming of the storm (Mark 4:39 - 5:2)"}
+{"instruction": "Why did Pharaoh give Joseph’s family the land of Goshen to live in?","input": "","output": "To keep them separate as they were shepherds, which were an abomination to the Egyptians (Gen 46:34)"}
+{"instruction": "After the exile, the Israelites returned and started to rebuild the temple in Jerusalem, but which other prophet along with Zechariah was sent to encourage the completion of the partly built temple?","input": "","output": "Haggai (Hag 2:4)"}
+{"instruction": "At what place did the writer to the Thessalonians say he’d been given rough treatment?","input": "","output": "Philippi (1 Th 2:2)"}
+{"instruction": "Who was well reported of at Lystra and Iconium?","input": "","output": "Timothy (Acts 16:2)"}
+{"instruction": "In John’s first epistle which three things are said to testify and agree about Jesus?","input": "","output": "The Spirit, the water and the blood (1 Jn 5:8)"}
+{"instruction": "In Proverbs, how shall the “man’s belly be satisfied”?","input": "","output": "By the fruit of his mouth (Pro 18:20)"}
+{"instruction": "What did Rahab hide the two spies under?","input": "","output": "Stalks of flax (Josh 2:6)"}
+{"instruction": "In years, roughly how long did Paul spend in Ephesus?","input": "","output": "Three years (Acts 20:31)"}
+{"instruction": "Which gospel records the fewest of the miracles performed by Jesus?","input": "","output": "John (John 1:1 - 21:25)"}
+{"instruction": "What does Psalm 16 say there is in “the Lord’s right hand”?","input": "","output": "Pleasures for evermore (Ps 16:11)"}
+{"instruction": "Who walked barefoot and naked for three years at the Lord’s command?","input": "","output": "Isaiah (Isa 20:2-3)"}
+{"instruction": "Who promised to give their daughters to Shechemites if they agreed to be circumcised, only to kill them instead three days later while they were still sore?","input": "","output": "Sons of Jacob (Gen 34:13)"}
+{"instruction": "Which god did the people of Lystra think Paul was?","input": "","output": "Mercurius (Hermes) (Acts 14:12)"}
+{"instruction": "What happened to the sun when the sixth seal was opened?","input": "","output": "It became as black as sackcloth (of hair) (Rev 6:12)"}
+{"instruction": "What characteristics are attached to the breastplate mentioned in Thessalonians?","input": "","output": "Faith and love (1 Th 5:8)"}
+{"instruction": "Of which animal were the kings of Israel told not to have lots?","input": "","output": "Horses (Deut 17:14-16)"}
+{"instruction": "In Revelation, unclean spirits came out of the mouth of the dragon, in the form of what animals?","input": "","output": "Frogs (Rev 16:13)"}
+{"instruction": "How old was Noah when the floods came?","input": "","output": "600 (Gen 7:6)"}
+{"instruction": "Which animal skins, dyed red, were used as an offering to help make the tabernacle?","input": "","output": "Rams (Exo 25:3-5)"}
+{"instruction": "Which king contributes words of wisdom in Proverbs chapter 31?","input": "","output": "Lemuel (Pro 31:1)"}
+{"instruction": "In which Jewish month is the Passover?","input": "","output": "Abib (Deut 16:1)"}
+{"instruction": "Who did Daniel see sitting in a throne in his vision of the four beasts?","input": "","output": "The Ancient of Days (Dan 7:9)"}
+{"instruction": "The Ethiopian eunuch, held what office of responsibility to Candace, queen of the Ethiopians?","input": "","output": "Treasurer (Acts 8:27)"}
+{"instruction": "How does Psalm 100 say we should come before the Lord’s presence?","input": "","output": "With singing (Ps 100:2)"}
+{"instruction": "How many concubines did Solomon have?","input": "","output": "300 (1 Ki 11:3)"}
+{"instruction": "How did Moses make the bitter waters of Marah drinkable?","input": "","output": "Threw a piece of wood into the water (Exo 15:23-25)"}
+{"instruction": "How did Adam and Eve feel about their nakedness at first?","input": "","output": "They were not ashamed (Gen 2:25)"}
+{"instruction": "Who deceived the worshippers of Baal into attending sacrifices only to destroy them all once they had arrived?","input": "","output": "Jehu (2 Ki 10:18-28)"}
+{"instruction": "The branched candlestick in the tabernacle had its cups carved in the likeness of which plant?","input": "","output": "Almond blossom (Exo 25:33)"}
+{"instruction": "What happened to the soldiers of Gideon who lapped the river water with their tongues like dogs?","input": "","output": "They were chosen to fight against the Midianites (Jdg 7:5-7)"}
+{"instruction": "How many sections (or books) is the book of Psalms split into?","input": "","output": "Five (Ps 1; 43; 73; 90; 107)"}
+{"instruction": "How old was Abraham’s first wife when she died?","input": "","output": "127 years (Gen 23:1)"}
+{"instruction": "To what does the “seventy weeks” prophecy refer?","input": "","output": "The coming of the Messiah (Dan 9:20-27)"}
+{"instruction": "To which tribe did Anna the prophetess belong?","input": "","output": "Asher (Luke 2:36)"}
+{"instruction": "What part of Paul’s clothing did Agabus use?","input": "","output": "Girdle (belt) (Acts 21:11)"}
+{"instruction": "David says in the Psalms that “adders’ poison is under their lips”. To whom is he referring?","input": "","output": "Evil men (Ps 140:1-3)"}
+{"instruction": "Who was the father in law of Caiaphas, the high priest at the time of Jesus death?","input": "","output": "Annas (John 18:13)"}
+{"instruction": "Who did Paul take with him on his first missionary journey?","input": "","output": "Barnabas (Acts 13:4)"}
+{"instruction": "Jesus initially sent the twelve disciples to preach to which group of people?","input": "","output": "House of Israel (Matt 10:5-6)"}
+{"instruction": "Where will the believers reign in the Kingdom of God?","input": "","output": "On Earth (Rev 5:10)"}
+{"instruction": "Who did Joseph’s brothers sell him to?","input": "","output": "Ishmaelites (Gen 37:28)"}
+{"instruction": "Who shall the “prayer of faith” save?","input": "","output": "The sick (Jam 5:15)"}
+{"instruction": "Where did Delilah live?","input": "","output": "Valley of Sorek (Jdg 16:4)"}
+{"instruction": "Who was Paul referring to when he said, “May the Lord grant mercy to his household, for he often refreshed me and was not ashamed of my chains”?","input": "","output": "Onesiphorus (2 Tim 1:16)"}
+{"instruction": "How many elders witnessed Boaz’s agreement with the kinsman?","input": "","output": "Ten (Ruth 4:2)"}
+{"instruction": "According to Job, what is the hope of “a tree that is cut down”?","input": "","output": "It will sprout again (Job 14:7)"}
+{"instruction": "What should the Israelites not destroy when they besiege a city?","input": "","output": "Trees for meat (Deut 20:19-20)"}
+{"instruction": "What offering did Gideon present to the Lord under the oak tree?","input": "","output": "A young goat and some unleavened bread (Jdg 6:19)"}
+{"instruction": "On what island was Paul shipwrecked as he made his way to Rome?","input": "","output": "Malta (Acts 28:1)"}
+{"instruction": "“An excellent wife” is a what to her husband?","input": "","output": "A crown (Pro 12:4)"}
+{"instruction": "To what tribe did Samson belong?","input": "","output": "Dan (Jdg 13:25)"}
+{"instruction": "In which book of the Bible would you find the record of Balaam and his donkey?","input": "","output": "Numbers (Num 22:22-35)"}
+{"instruction": "What are Psalms 120-134 collectively known as?","input": "","output": "The Songs of Degrees (or Ascents) (Ps 120 - 134)"}
+{"instruction": "When Joseph was in prison, whose dream did he correctly interpret to mean he would be restored to his job?","input": "","output": "Butler (Gen 42:32-36)"}
+{"instruction": "What is “sanctified by the word of God and prayer”?","input": "","output": "God’s creation (1 Tim 4:5)"}
+{"instruction": "In the parable of the good father, if a son asks for an egg, what would the good father not give him?","input": "","output": "A scorpion (Luke 11:12)"}
+{"instruction": "Fearing that Saul wanted to kill him, what lie did David ask Jonathan to tell his father if asked why he wasn’t at the king’s table for the New Moon feast?","input": "","output": "He had gone to Bethlehem for a family gathering (1 Sam 20:6)"}
+{"instruction": "What was the name of the field that Jacob requested to be buried in?","input": "","output": "Machpelah (Gen 50:12-13)"}
+{"instruction": "How long did Noah live for after the flood?","input": "","output": "350 years (Gen 9:28)"}
+{"instruction": "Paul, Timothy and who else sent their greetings to Thessalonica?","input": "","output": "Silvanus (1 Th 1:1)"}
+{"instruction": "How many years did Jacob live for?","input": "","output": "147 (Gen 47:28)"}
+{"instruction": "What animal is “better than a dead lion”?","input": "","output": "A living dog (Ecc 9:4)"}
+{"instruction": "One of the ten plagues of Egypt was the plague of boils, but which number was it?","input": "","output": "Sixth (Exo 9:8)"}
+{"instruction": "After being left behind in Berea, in which city did Silas and Timothy meet up with Paul?","input": "","output": "Corinth (Acts 18:1-5)"}
+{"instruction": "Who told his wife not to worry that she was barren and said, “am not I better to thee than ten sons”?","input": "","output": "Elkanah (1 Sam 1:8)"}
+{"instruction": "What does Job say is “poured out like water”?","input": "","output": "His groanings (roarings) (Job 3:24)"}
+{"instruction": "A word “fitly spoken” is like what of gold set in pictures of silver?","input": "","output": "Apples (Pro 25:11)"}
+{"instruction": "On which occasion in the Bible does it specifically say that believers sung a hymn?","input": "","output": "Jesus and the disciples celebrating Passover (Matt 26:30)"}
+{"instruction": "To which city did Samson go down to and kill thirty men?","input": "","output": "Ashkelon (Jdg 14:19)"}
+{"instruction": "Who was the Persian king when the rebuilding of the temple after the exile was finally complete?","input": "","output": "Darius (Ezr 6:15)"}
+{"instruction": "What part of King Asa’s body was diseased?","input": "","output": "Feet (1 Ki 15:23)"}
+{"instruction": "Which priest anointed Solomon?","input": "","output": "Zadok (1 Ki 1:39)"}
+{"instruction": "Who does James say is the “source of every good and every perfect gift”?","input": "","output": "Father of Lights (Jam 1:17)"}
+{"instruction": "Which disciple asked Jesus to show them the Father?","input": "","output": "Philip (John 14:8)"}
+{"instruction": "What did Athaliah do when she saw her son, Ahaziah, was dead?","input": "","output": "Destroyed the rest of the royal family (2 Ki 11:1)"}
+{"instruction": "Who had a bed 13.5 foot long by 6 foot wide?","input": "","output": "Og (Deut 3:11)"}
+{"instruction": "Whose handkerchiefs were able to heal the sick?","input": "","output": "Paul (Acts 19:12)"}
+{"instruction": "How did Daniel react to the vision by the river Hiddekel?","input": "","output": "He felt ill and weak (Dan 10:8)"}
+{"instruction": "Which Old Testament prophet was given a book to eat by God?","input": "","output": "Ezekiel (Eze 3:2)"}
+{"instruction": "What was the name of the centurion who looked after Paul on the journey to Rome?","input": "","output": "Julius (Acts 27:1)"}
+{"instruction": "Which book of the Bible comments that “dead flies cause the ointment of the apothecary to send forth a stinking savor?”","input": "","output": "Ecclesiastes (Ecc 10:1)"}
+{"instruction": "“Bread gained by deceit is sweet to a man”, but what shall his mouth be filled with afterwards?","input": "","output": "Gravel (Pro 20:17)"}
+{"instruction": "What does Zechariah see in a vision that destroys the houses of thieves and liars?","input": "","output": "A thirty foot flying roll (Zec 5:1-4)"}
+{"instruction": "How long did it take Solomon to build his own house?","input": "","output": "Thirteen years (1 Ki 7:1)"}
+{"instruction": "At which battle were the Israelites defeated because Joshua attacked without seeking God’s guidance first?","input": "","output": "Ai (Josh 7:5-12)"}
+{"instruction": "In the parable of the debtors, one owed 500 denarii (pence), but how much did the other one owe?","input": "","output": "Fifty (Luke 7:41)"}
+{"instruction": "What was the name of the man who was paralyzed and had been bedridden for eight years?","input": "","output": "Aeneas (Acts 9:33)"}
+{"instruction": "How old was Abram when he first became a father?","input": "","output": "Eighty-six years (Gen 16:16)"}
+{"instruction": "How old was David when he died?","input": "","output": "Seventy (2 Sam 5:4)"}
+{"instruction": "How long was Noah’s ark?","input": "","output": "300 cubits / 450 feet (Gen 6:15)"}
+{"instruction": "During Paul’s third missionary journey, roughly for how long did he minister in the school of Tyrannus at Ephesus?","input": "","output": "Two years (Acts 19:10)"}
+{"instruction": "What does James say “envying and strife in your heart” brings?","input": "","output": "Confusion and every evil work (Jam 3:16)"}
+{"instruction": "Which honorable counselor was waiting for the Kingdom of God?","input": "","output": "Joseph of Arimathea (Mark 15:43)"}
+{"instruction": "One of the Ten Commandments forbids the coveting of a neighbor’s property. Which one?","input": "","output": "Tenth (Exo 20:17)"}
+{"instruction": "What did God specifically command concerning the eating of the thanksgiving offering that the Israelites made?","input": "","output": "They must eat it on the day it is offered. (Lev 7:15; 22:30)"}
+{"instruction": "Which tribe’s blessing from Jacob said they would “dwell at the haven of the sea”?","input": "","output": "Zebulun (Gen 49:13)"}
+{"instruction": "Jesus accused the Pharisees of hypocritically paying tithes on herbs, and omitting which weightier matters of the law?","input": "","output": "Judgment, mercy, and faith (Matt 23:23)"}
+{"instruction": "Which king of Heshbon would not let the Israelites pass through his land?","input": "","output": "Sihon (Deut 2:30; Jdg 11:19-20)"}
+{"instruction": "What occasion did David write Psalm 105 for?","input": "","output": "Bringing the ark back to Jerusalem (1 Chr 15-16)"}
+{"instruction": "Which one of the Ten Commandments was an instruction not to lie (bear false witness)?","input": "","output": "Ninth (Exo 20:16)"}
+{"instruction": "What was the name of the god that Barnabas was called at Lystra?","input": "","output": "Jupiter (Zeus) (Acts 14:12)"}
+{"instruction": "How many horns did the ram in Daniel’s vision have?","input": "","output": "Two (Dan 8:3)"}
+{"instruction": "Onesimus, was a run away slave from which city?","input": "","output": "Colosse (Col 4:9; Phm 1:12)"}
+{"instruction": "The disciple Thomas was also known as Didymus, but what does this name mean?","input": "","output": "Twin (John 11:16 / Strongs G1324)"}
+{"instruction": "Which king decreed that the Jews could return to their land to rebuild the temple?","input": "","output": "Cyrus (Ezr 1:1-3)"}
+{"instruction": "Isaiah took a cake of what to heal Hezekiah?","input": "","output": "Figs (2 Ki 20:7)"}
+{"instruction": "Who prayed, “I pray thee, open his eyes that he may see?”","input": "","output": "Elisha (2 Ki 6:17)"}
+{"instruction": "How many silver shekels did Jeremiah pay to Hanameel for a field in Anathoth?","input": "","output": "Seventeen (Jer 32:9)"}
+{"instruction": "In the love poetry of Song of Solomon the lady’s hair is described as a flock of which animal?","input": "","output": "Goats (Song 4:1)"}
+{"instruction": "What is the first offering made to the Lord recorded in the Bible?","input": "","output": "Cain’s fruit of the ground (Gen 4:3)"}
+{"instruction": "In Revelation 22, who does it say has the right to the tree of life?","input": "","output": "Those that do God’s commandments (Rev 22:14)"}
+{"instruction": "In Proverbs, what metal is the “tongue of the just” likened to?","input": "","output": "Silver (Pro 10:20)"}
+{"instruction": "Which three tribes camped on the northern side of the tabernacle in the wilderness?","input": "","output": "Dan, Asher, Naphtali (Num 2:25-29)"}
+{"instruction": "To where did Paul & Silas flee after upsetting the Jews at Thessalonica?","input": "","output": "Berea (Acts 17:10)"}
+{"instruction": "How many silver pieces would each Philistine lord give to Delilah if she betrayed Samson?","input": "","output": "1,100 (Jdg 16:5)"}
+{"instruction": "In the parable about a fig tree, when you see the “tree putting forth leaves”, what is near?","input": "","output": "Summer (Matt 24:32)"}
+{"instruction": "According to Proverbs, how do those “seeking death” acquire their wealth?","input": "","output": "By lying (Pro 21:6)"}
+{"instruction": "In the prophecy of Isaiah, where will a little child play in the kingdom age?","input": "","output": "Over the hole of a snake (Isa 11:8)"}
+{"instruction": "In Genesis, who was buried under an oak tree below Bethel?","input": "","output": "Deborah (Rebekah’s nurse) (Gen 35:8)"}
+{"instruction": "What color was the High Priest’s robe?","input": "","output": "Blue (Exo 28:31)"}
+{"instruction": "Who does Paul thank God for because their “faith and love grew exceedingly”?","input": "","output": "The Thessalonians (2 Th 1:3)"}
+{"instruction": "Which nation does Jeremiah say is dwelling in Gad?","input": "","output": "Ammon (Jer 49:1)"}
+{"instruction": "In which city were Paul and Barnabas worshipped as gods?","input": "","output": "Lystra (Acts 14:8-12)"}
+{"instruction": "What does the name Israel mean?","input": "","output": "Prevails with God (Gen 32:28)"}
+{"instruction": "What must an Israelite do when “building a new house”?","input": "","output": "Build a guard rail around the roof (Deut 22:8)"}
+{"instruction": "Which prophet said, “Out of Egypt have I called my son”?","input": "","output": "Hosea (Hos 11:1)"}
+{"instruction": "“Deceit is in the heart of them that”... do what?","input": "","output": "Imagine evil (Pro 12:20)"}
+{"instruction": "Jesus quotes a portion of text from the Old Testament in connection with the parable of the vineyard owner, “The stone which the builders rejected is become the head of the corner:”, but which Old Testament book did this come from?","input": "","output": "Psalms (Mark 12:10; Ps 118:22)"}
+{"instruction": "Where did Paul leave the sick Trophimus?","input": "","output": "Miletum (Miletus) (2 Tim 4:20)"}
+{"instruction": "In a battle against the Syrians, what killed 27,000 of them in the city of Aphek?","input": "","output": "A wall fell on them (1 Ki 20:30)"}
+{"instruction": "What weight of gold was Solomon recorded as acquiring in one year?","input": "","output": "666 talents (1 Ki 10:14)"}
+{"instruction": "Who addresses an epistle to the “twelve tribes which are scattered abroad”?","input": "","output": "James (Jam 1:1)"}
+{"instruction": "Who was killed by a wet blanket?","input": "","output": "Benhadad (2 Ki 8:15)"}
+{"instruction": "In the parable of the Prodigal Son, what portion would the son have received?","input": "","output": "A third (Deut 21:17; Luke 15:12)"}
+{"instruction": "What did Elisha throw into Jericho’s water supply to “heal” it?","input": "","output": "Salt (2 Ki 2:21)"}
+{"instruction": "With what unusual weapon did Shamgar slay 600 Philistines?","input": "","output": "A cattle prod (ox goad) (Jdg 3:31)"}
+{"instruction": "In which tribe was the city of Ramoth-Gilead?","input": "","output": "Gad (Deut 4:43)"}
+{"instruction": "Why do the four and twenty elders in Revelation give thanks to God?","input": "","output": "God has taken his power and commenced his reign (Rev 11:17)"}
+{"instruction": "David refers to the tribe of Judah as his what in the Psalms?","input": "","output": "His lawgiver (royal scepter) (Ps 60:7)"}
+{"instruction": "When Isaiah describes the desolation of the last days, a man shall “cast his idols of silver, and his idols of gold, to the moles” and the what?","input": "","output": "Bats (Isa 2:20)"}
+{"instruction": "Who gave thanks to the Lord when she saw the baby Jesus?","input": "","output": "Anna the Prophetess (Luke 2:36-38)"}
+{"instruction": "Children in the region of what age were to be killed, in the hope that the young Jesus would also be killed?","input": "","output": "Two years and under (Matt 2:16)"}
+{"instruction": "Who is described in the Psalms as “spreading himself like a green bay tree”?","input": "","output": "The wicked (Ps 37:35)"}
+{"instruction": "Aeneas was confined to bed for eight years suffering from the palsy, but which town did he dwell in?","input": "","output": "Lydda (Acts 9:32-33)"}
+{"instruction": "Where was Solomon anointed?","input": "","output": "Gihon (1 Ki 1:38)"}
+{"instruction": "Christ was led away to which high priest first?","input": "","output": "Annas (Luke 3:2; John 18:13)"}
+{"instruction": "Whose mother does Paul greet in the letter to the Romans?","input": "","output": "Rufus’ (Rom 16:13)"}
+{"instruction": "Which Psalm does Paul quote from in his exhortation at Antioch?","input": "","output": "Psalm 2 (Acts 13:33; Ps 2:7)"}
+{"instruction": "“The legs of the lame hanging limp” are like what in the mouth of fools?","input": "","output": "A parable (Pro 26:7)"}
+{"instruction": "How does Peter say a husband should treat his wife?","input": "","output": "With honor (1 Pe 3:7)"}
+{"instruction": "After being told by God to remain in Gerar, who told the men there when questioned that his wife was merely his sister?","input": "","output": "Isaac (Gen 26:1-7)"}
+{"instruction": "Why does David say “the daughters of Judah should be glad”?","input": "","output": "Because of the judgments of the Lord (Ps 48:11; 97:8)"}
+{"instruction": "For how many shekels of silver did Abraham purchase the field of Machpelah?","input": "","output": "400 (Gen 23:16)"}
+{"instruction": "In Ezekiel’s prophecy, who is said to be the “mother of Jerusalem”?","input": "","output": "A Hittite (Eze 16:3)"}
+{"instruction": "Who did Jesus say was “not far from the Kingdom of God”?","input": "","output": "One of the Scribes (Mark 12:28-34)"}
+{"instruction": "Who succeeded Herod the Great after his death?","input": "","output": "Archelaus (Matt 2:22)"}
+{"instruction": "On Paul’s journey to Rome, at what location did he meet brethren whom he thanked God for?","input": "","output": "Appii forum (Acts 28:15)"}
+{"instruction": "Proverbs describes a “fair woman without discretion” as like a jewel of gold in what?","input": "","output": "A pig’s snout (Pro 11:22)"}
+{"instruction": "What does the name Abram mean?","input": "","output": "High father / Father of heights (Gen 17:5 / Strong’s H87)"}
+{"instruction": "How many begotten sons of David are named in the Bible?","input": "","output": "Nineteen (1 Chr 3:1-9)"}
+{"instruction": "In Luke’s account of the Sermon on the Mount to who does Jesus say “God is kind”?","input": "","output": "The unthankful and the evil (Luke 6:35)"}
+{"instruction": "How many cities did the Levites possess?","input": "","output": "Forty-eight (Josh 21:41)"}
+{"instruction": "The angel said to Mary that Jesus would “reign over the house” of which Old Testament character?","input": "","output": "Jacob (Luke 1:33)"}
